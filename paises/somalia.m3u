@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArlaadiTV.so@SD" tvg-name="Arlaadi TV" tvg-logo="" group-title="Somalia",Arlaadi TV
+https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8
+#EXTINF:-1 tvg-id="CrimeandEvidence.za@SD" tvg-name="Crime and Evidence (720p)" tvg-logo="" group-title="Somalia",Crime and Evidence (720p)
+https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
+#EXTINF:-1 tvg-id="DacwaTV.ke@SD" tvg-name="Dacwa TV (576p) [Not 24/7]" tvg-logo="" group-title="Somalia",Dacwa TV (576p) [Not 24/7]
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+#EXTINF:-1 tvg-id="etvNewsSport.za@SD" tvg-name="ETVN (720p)" tvg-logo="" group-title="Somalia",ETVN (720p)
+https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
+#EXTINF:-1 tvg-id="HirshabelleTV.so@SD" tvg-name="Hirshabelle TV (576p)" tvg-logo="" group-title="Somalia",Hirshabelle TV (576p)
+http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="PuntlandTV.so@SD" tvg-name="Puntland TV (720p)" tvg-logo="" group-title="Somalia",Puntland TV (720p)
+http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SaabTV.so@SD" tvg-name="Saab TV (576p)" tvg-logo="" group-title="Somalia",Saab TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-id="SaabTV.so@SD" tvg-name="Saab TV (576p)" tvg-logo="" group-title="Somalia",Saab TV (576p)
+https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBCTV.so@SD" tvg-name="SBC TV (720p) [Not 24/7]" tvg-logo="" group-title="Somalia",SBC TV (720p) [Not 24/7]
+http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SNTVDaljir.so@SD" tvg-name="SNTV Daljir (576p)" tvg-logo="" group-title="Somalia",SNTV Daljir (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+#EXTINF:-1 tvg-id="SomaliNationalTV.so@SD" tvg-name="Somali National TV (576p)" tvg-logo="" group-title="Somalia",Somali National TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+#EXTINF:-1 tvg-id="Trigger.za@SD" tvg-name="Trigger" tvg-logo="" group-title="Somalia",Trigger
+https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8

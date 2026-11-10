@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Badakhshon.tj@SD" tvg-name="Badakhshon (576p)" tvg-logo="" group-title="Tayikistán",Badakhshon (576p)
+http://185.121.1.163:8083/Badakhshon/index.m3u8
+#EXTINF:-1 tvg-id="Badakhshon.tj@SD" tvg-name="Badakhshon (576p)" tvg-logo="" group-title="Tayikistán",Badakhshon (576p)
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 tvg-id="DushanbeHD.tj@SD" tvg-name="Dushanbe HD (1080p)" tvg-logo="" group-title="Tayikistán",Dushanbe HD (1080p)
+http://185.121.1.163:8083/DushanbeHD/index.m3u8
+#EXTINF:-1 tvg-id="DushanbeHD.tj@SD" tvg-name="Dushanbe HD (1080p)" tvg-logo="" group-title="Tayikistán",Dushanbe HD (1080p)
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-name="Futbol (1080p)" tvg-logo="" group-title="Tayikistán",Futbol (1080p)
+http://185.121.1.163:8083/FootballHD/index.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-name="Futbol (1080p)" tvg-logo="" group-title="Tayikistán",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj@SD" tvg-name="Ilm va Tabiat (1080p)" tvg-logo="" group-title="Tayikistán",Ilm va Tabiat (1080p)
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-id="Jahonnamo.tj@SD" tvg-name="Jahonnamo (1080p)" tvg-logo="" group-title="Tayikistán",Jahonnamo (1080p)
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 tvg-id="Khatlon.tj@SD" tvg-name="Khatlon (576p)" tvg-logo="" group-title="Tayikistán",Khatlon (576p)
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 tvg-id="Tojikiston.tj@SD" tvg-name="Tajikistan (1080p)" tvg-logo="" group-title="Tayikistán",Tajikistan (1080p)
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:-1 tvg-id="TMT.tj@SD" tvg-name="TMT (1080p)" tvg-logo="" group-title="Tayikistán",TMT (1080p)
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 tvg-id="TVBahoriston.tj@SD" tvg-name="TV Bahoriston (1080p)" tvg-logo="" group-title="Tayikistán",TV Bahoriston (1080p)
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 tvg-id="TVKulob.tj@SD" tvg-name="TV Kulob (576p)" tvg-logo="" group-title="Tayikistán",TV Kulob (576p)
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-id="TVSafina.tj@SD" tvg-name="TV Safina (1080p)" tvg-logo="" group-title="Tayikistán",TV Safina (1080p)
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 tvg-id="TVSayohi.tj@SD" tvg-name="TV Sayohi (1080p)" tvg-logo="" group-title="Tayikistán",TV Sayohi (1080p)
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-id="TVSinamo.tj@SD" tvg-name="TV Sinamo (1080p)" tvg-logo="" group-title="Tayikistán",TV Sinamo (1080p)
+https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:-1 tvg-id="TVSugd.tj@SD" tvg-name="TV Sugd (1080p)" tvg-logo="" group-title="Tayikistán",TV Sugd (1080p)
+https://live.teleradiocom.tj/14/3m.m3u8

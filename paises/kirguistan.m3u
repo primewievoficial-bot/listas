@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="312Kino.kg@SD" tvg-name="312 Кино (406p)" tvg-logo="" group-title="Kirguistán",312 Кино (406p)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="312TV.kg@SD" tvg-name="312 ТВ (406p)" tvg-logo="" group-title="Kirguistán",312 ТВ (406p)
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-id="ManasTV.kg@SD" tvg-name="Manas TV" tvg-logo="" group-title="Kirguistán",Manas TV
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=0
+#EXTINF:-1 tvg-id="NextTV.kg@SD" tvg-name="Next TV (1080p) [Not 24/7]" tvg-logo="" group-title="Kirguistán",Next TV (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1KG.kg@SD" tvg-name="TV1 KG (1080p)" tvg-logo="" group-title="Kirguistán",TV1 KG (1080p)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV15.kg@SD" tvg-name="TV15 (1080p) [Not 24/7]" tvg-logo="" group-title="Kirguistán",TV15 (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
+#EXTINF:-1 tvg-id="OshPirim.kg@SD" tvg-name="Ош Пирим (1080p) [Not 24/7]" tvg-logo="" group-title="Kirguistán",Ош Пирим (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
+#EXTINF:-1 tvg-id="AlaToo24.kg@SD" tvg-name="УТРК Ала-Тоо 24 (480p) [Not 24/7]" tvg-logo="" group-title="Kirguistán",УТРК Ала-Тоо 24 (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.kg@SD" tvg-name="УТРК Музыка (480p) [Not 24/7]" tvg-logo="" group-title="Kirguistán",УТРК Музыка (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+#EXTINF:-1 tvg-id="Sport.kg@SD" tvg-name="УТРК Спорт (480p) [Not 24/7]" tvg-logo="" group-title="Kirguistán",УТРК Спорт (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+#EXTINF:-1 tvg-id="ElTR.kg@SD" tvg-name="ЭлТР (480p) [Not 24/7]" tvg-logo="" group-title="Kirguistán",ЭлТР (480p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8
+#EXTINF:-1 tvg-id="BilimIlim.kg@SD" tvg-name="ЭлТР Билим Илим (480p) [Not 24/7]" tvg-logo="" group-title="Kirguistán",ЭлТР Билим Илим (480p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8

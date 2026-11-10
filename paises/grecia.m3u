@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4E.gr@SD" tvg-name="4E (1080p)" tvg-logo="" group-title="Grecia",4E (1080p)
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="4E.gr@SD" tvg-name="4E (1080p)" tvg-logo="" group-title="Grecia",4E (1080p)
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AcheloosTV.gr@SD" tvg-name="Acheloos TV (576p)" tvg-logo="" group-title="Grecia",Acheloos TV (576p)
+https://acheloostv.streamings.gr/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="Action24.gr@SD" tvg-name="Action 24 (1080p) [Not 24/7]" tvg-logo="" group-title="Grecia",Action 24 (1080p) [Not 24/7]
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="AeolosTV.gr@SD" tvg-name="Aeolos TV (1080p)" tvg-logo="" group-title="Grecia",Aeolos TV (1080p)
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AigaioTV.gr@SD" tvg-name="Aigaio TV (720p)" tvg-logo="" group-title="Grecia",Aigaio TV (720p)
+https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlertTV.gr@SD" tvg-name="Alert (576p) [Not 24/7]" tvg-logo="" group-title="Grecia",Alert (576p) [Not 24/7]
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 tvg-id="AlphaTV.gr@SD" tvg-name="Alpha TV (1080p)" tvg-logo="" group-title="Grecia",Alpha TV (1080p)
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ANT1.gr@SD" tvg-name="ANT1 (1080p) [Geo-blocked]" tvg-logo="" group-title="Grecia",ANT1 (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=http://watch.antennaplus.gr
+#EXTVLCOPT:http-user-agent=Chrome
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+#EXTINF:-1 tvg-id="ART.gr@SD" tvg-name="ART (1080p)" tvg-logo="" group-title="Grecia",ART (1080p)
+https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTTV.gr@SD" tvg-name="ART TV" tvg-logo="" group-title="Grecia",ART TV
+https://rtmp.win:3696/live/arttvgrlive.m3u8
+#EXTINF:-1 tvg-id="AstraTV.gr@SD" tvg-name="Astra TV (1080p)" tvg-logo="" group-title="Grecia",Astra TV (1080p)
+https://server.gointernet.gr/live/livestream.m3u8
+#EXTINF:-1 tvg-id="BarazaTV.gr@SD" tvg-name="Baraza TV (1080p)" tvg-logo="" group-title="Grecia",Baraza TV (1080p)
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr@SD" tvg-name="Baraza TV Deep House (720p)" tvg-logo="" group-title="Grecia",Baraza TV Deep House (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="BarazaTVRelaxing.gr@SD" tvg-name="Baraza TV Relaxing (720p)" tvg-logo="" group-title="Grecia",Baraza TV Relaxing (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="BestTV.gr@SD" tvg-name="Best TV (720p) [Not 24/7]" tvg-logo="" group-title="Grecia",Best TV (720p) [Not 24/7]
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BlueSkyTV.gr@SD" tvg-name="Blue Sky TV (720p)" tvg-logo="" group-title="Grecia",Blue Sky TV (720p)
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+#EXTINF:-1 tvg-id="CenterTV.gr@SD" tvg-name="Center TV (1080p)" tvg-logo="" group-title="Grecia",Center TV (1080p)
+https://eu1.streams.gr:8081/centertv/index.m3u8
+#EXTINF:-1 tvg-id="Channel8.gr@HD" tvg-name="Channel 8 (1080p)" tvg-logo="" group-title="Grecia",Channel 8 (1080p)
+https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
+#EXTINF:-1 tvg-id="CorfuChannel.gr@SD" tvg-name="Corfu Channel (720p)" tvg-logo="" group-title="Grecia",Corfu Channel (720p)
+https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCreta.gr@SD" tvg-name="Creta (540p) [Not 24/7]" tvg-logo="" group-title="Grecia",Creta (540p) [Not 24/7]
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-id="DELTATV.gr@SD" tvg-name="DELTA TV (720p)" tvg-logo="" group-title="Grecia",DELTA TV (720p)
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DionTV.gr@SD" tvg-name="Dion TV (1080p)" tvg-logo="" group-title="Grecia",Dion TV (1080p)
+https://rtmp.win:3650/live/diontvlive.m3u8
+#EXTINF:-1 tvg-id="EcclesiaTV.gr@SD" tvg-name="Ecclesia TV (1080p)" tvg-logo="" group-title="Grecia",Ecclesia TV (1080p)
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+#EXTINF:-1 tvg-id="EgnatiaTV.gr@SD" tvg-name="Egnatia TV (576p)" tvg-logo="" group-title="Grecia",Egnatia TV (576p)
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1 tvg-id="EllinikosFM.gr@SD" tvg-name="Ellinikos FM (720p)" tvg-logo="" group-title="Grecia",Ellinikos FM (720p)
+https://rtmp.win:3603/live/ellinikosfmlive.m3u8
+#EXTINF:-1 tvg-id="ENAChannel.gr@SD" tvg-name="ENA Channel (1080p)" tvg-logo="" group-title="Grecia",ENA Channel (1080p)
+https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="EpilogesTV.gr@SD" tvg-name="Epiloges TV (480p)" tvg-logo="" group-title="Grecia",Epiloges TV (480p)
+https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
+#EXTINF:-1 tvg-id="EpirusTV1.gr@SD" tvg-name="Epirus TV1 (720p)" tvg-logo="" group-title="Grecia",Epirus TV1 (720p)
+https://rtmp.win:3929/live/epiruslive.m3u8
+#EXTINF:-1 tvg-id="ERTCosmos.gr@SD" tvg-name="ERT Cosmos (1080p)" tvg-logo="" group-title="Grecia",ERT Cosmos (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
+#EXTINF:-1 tvg-id="ERTNews.gr@HD" tvg-name="ERT News HD (1080p)" tvg-logo="" group-title="Grecia",ERT News HD (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+#EXTINF:-1 tvg-id="ERT3.gr@SD" tvg-name="ERT3 (1080p)" tvg-logo="" group-title="Grecia",ERT3 (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
+#EXTINF:-1 tvg-id="EuroTV.gr@SD" tvg-name="Euro TV (432p)" tvg-logo="" group-title="Grecia",Euro TV (432p)
+https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="ExtraProNews.gr@SD" tvg-name="Extra ProNews (576p)" tvg-logo="" group-title="Grecia",Extra ProNews (576p)
+http://62.1.176.18:8888/extra/index.m3u8
+#EXTINF:-1 tvg-id="FarosTV2.gr@SD" tvg-name="Faros TV2 (480p) [Geo-blocked]" tvg-logo="" group-title="Grecia",Faros TV2 (480p) [Geo-blocked]
+https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 tvg-id="GnomiTV.gr@SD" tvg-name="Gnomi TV (1080p)" tvg-logo="" group-title="Grecia",Gnomi TV (1080p)
+https://live.streams.ovh:8081/gnomitv/index.m3u8
+#EXTINF:-1 tvg-id="GroovyTV.gr@SD" tvg-name="Groovy TV (360p)" tvg-logo="" group-title="Grecia",Groovy TV (360p)
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr@SD" tvg-name="Hellenic Parliament TV (1080p)" tvg-logo="" group-title="Grecia",Hellenic Parliament TV (1080p)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
+#EXTINF:-1 tvg-id="HighTV.gr@SD" tvg-name="High TV (720p) [Not 24/7]" tvg-logo="" group-title="Grecia",High TV (720p) [Not 24/7]
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1 tvg-id="IonianTV.gr@SD" tvg-name="Ionian Channel (1080p) [Not 24/7]" tvg-logo="" group-title="Grecia",Ionian Channel (1080p) [Not 24/7]
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IonianTV.gr@SD" tvg-name="Ionian Channel (720p) [Not 24/7]" tvg-logo="" group-title="Grecia",Ionian Channel (720p) [Not 24/7]
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="KontraChannel.gr@SD" tvg-name="Kontra Channel (1080p)" tvg-logo="" group-title="Grecia",Kontra Channel (1080p)
+https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-id="KosTV.gr@SD" tvg-name="Kos TV (720p)" tvg-logo="" group-title="Grecia",Kos TV (720p)
+https://eu1.streams.gr:8081/kostv/index.m3u8
+#EXTINF:-1 tvg-id="KritiTV.gr@SD" tvg-name="Kriti TV (1080p)" tvg-logo="" group-title="Grecia",Kriti TV (1080p)
+https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="LepantoTV.gr@SD" tvg-name="Lepanto TV (1080p)" tvg-logo="" group-title="Grecia",Lepanto TV (1080p)
+https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
+#EXTINF:-1 tvg-id="MesogeiosTV.gr@SD" tvg-name="Mesogeios TV (720p)" tvg-logo="" group-title="Grecia",Mesogeios TV (720p)
+https://rtmp.win:3793/live/mesogeiostvlive.m3u8
+#EXTINF:-1 tvg-id="MessatidaTV.gr@SD" tvg-name="Messatida TV (720p)" tvg-logo="" group-title="Grecia",Messatida TV (720p)
+https://rtmp.streams.ovh:8081/mtv/index.m3u8
+#EXTINF:-1 tvg-id="NaftemporikiTV.gr@HD" tvg-name="Naftemporiki TV (1080p)" tvg-logo="" group-title="Grecia",Naftemporiki TV (1080p)
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
+#EXTINF:-1 tvg-id="NeaTV.gr@SD" tvg-name="Nea TV (720p)" tvg-logo="" group-title="Grecia",Nea TV (720p)
+https://live.neatv.gr:8888/hls/neatv.m3u8
+#EXTINF:-1 tvg-id="NeaTV.gr@SD" tvg-name="Nea TV (720p)" tvg-logo="" group-title="Grecia",Nea TV (720p)
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 tvg-id="NetmaxTV.gr@SD" tvg-name="Netmax TV (720p)" tvg-logo="" group-title="Grecia",Netmax TV (720p)
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="NotioiTV.gr@SD" tvg-name="Notioi TV (1080p)" tvg-logo="" group-title="Grecia",Notioi TV (1080p)
+https://srv.streamserver.gr:3451/stream/play.m3u8
+#EXTINF:-1 tvg-id="NRG91.gr@SD" tvg-name="NRG 91 (720p) [Not 24/7]" tvg-logo="" group-title="Grecia",NRG 91 (720p) [Not 24/7]
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-id="OneChannel.gr@HD" tvg-name="One Channel (1080p) [Geo-blocked]" tvg-logo="" group-title="Grecia",One Channel (1080p) [Geo-blocked]
+https://onechannel.siliconweb.com/one/stream/chunks.m3u8
+#EXTINF:-1 tvg-id="PanikTV.gr@SD" tvg-name="Panik TV (1080p)" tvg-logo="" group-title="Grecia",Panik TV (1080p)
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 tvg-id="PellaTV.gr@SD" tvg-name="Pella TV (576p) [Not 24/7]" tvg-logo="" group-title="Grecia",Pella TV (576p) [Not 24/7]
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1 tvg-id="PlayTV.gr@SD" tvg-name="Play TV (480p) [Not 24/7]" tvg-logo="" group-title="Grecia",Play TV (480p) [Not 24/7]
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 tvg-id="ReloadPlay.gr@SD" tvg-name="Reload Play (720p)" tvg-logo="" group-title="Grecia",Reload Play (720p)
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 tvg-id="SamiakiTV.gr@SD" tvg-name="Samiaki TV (540p) [Not 24/7]" tvg-logo="" group-title="Grecia",Samiaki TV (540p) [Not 24/7]
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 tvg-id="SkaiTV.gr@SD" tvg-name="Skai TV (720p)" tvg-logo="" group-title="Grecia",Skai TV (720p)
+http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelInternational.gr@HD" tvg-name="Star Channel International" tvg-logo="" group-title="Grecia",Star Channel International
+https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
+#EXTINF:-1 tvg-id="StarChannel.gr@SD" tvg-name="STAR HD (1080p)" tvg-logo="" group-title="Grecia",STAR HD (1080p)
+http://livestar.siliconweb.com/starvod/star4/star4.m3u8
+#EXTINF:-1 tvg-id="StarChannelInternational.gr@HD" tvg-name="STAR International (720p)" tvg-logo="" group-title="Grecia",STAR International (720p)
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 tvg-id="StarKentrikisElladas.gr@SD" tvg-name="Star Kentrikis Elladas (1080p)" tvg-logo="" group-title="Grecia",Star Kentrikis Elladas (1080p)
+https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+#EXTINF:-1 tvg-id="StartTV.gr@SD" tvg-name="Start TV (480p)" tvg-logo="" group-title="Grecia",Start TV (480p)
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 tvg-id="SyrosTV1.gr@SD" tvg-name="Syros TV1 (720p)" tvg-logo="" group-title="Grecia",Syros TV1 (720p)
+https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Telekriti.gr@SD" tvg-name="Telekriti (720p) [Not 24/7]" tvg-logo="" group-title="Grecia",Telekriti (720p) [Not 24/7]
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 tvg-id="ThrakiNetTV.gr@SD" tvg-name="Thraki Net TV (1080p)" tvg-logo="" group-title="Grecia",Thraki Net TV (1080p)
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 tvg-id="TopChannel.gr@SD" tvg-name="Top Channel (720p)" tvg-logo="" group-title="Grecia",Top Channel (720p)
+https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT.gr@SD" tvg-name="TRT (720p)" tvg-logo="" group-title="Grecia",TRT (720p)
+https://av.hellasnet.tv/rst/trt/main_stream.m3u8
+#EXTINF:-1 tvg-id="TV100.gr@SD" tvg-name="TV 100 (720p)" tvg-logo="" group-title="Grecia",TV 100 (720p)
+https://gwebstream.net/hls/master.m3u8
+#EXTINF:-1 tvg-id="TVCreta.gr@SD" tvg-name="TV Creta (540p) [Not 24/7]" tvg-logo="" group-title="Grecia",TV Creta (540p) [Not 24/7]
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+#EXTINF:-1 tvg-id="VerginaTV.gr@SD" tvg-name="Vergina TV (1080p)" tvg-logo="" group-title="Grecia",Vergina TV (1080p)
+https://verginanews.gr:8443/hls_live/stream1.m3u8
+#EXTINF:-1 tvg-id="Xplore.gr@SD" tvg-name="Xplore (714p) [Geo-blocked]" tvg-logo="" group-title="Grecia",Xplore (714p) [Geo-blocked]
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 tvg-id="ZouglaTV.gr@HD" tvg-name="Zougla TV (720p)" tvg-logo="" group-title="Grecia",Zougla TV (720p)
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr@SD" tvg-name="Βουλή Τηλεόραση (360p) [Not 24/7]" tvg-logo="" group-title="Grecia",Βουλή Τηλεόραση (360p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8

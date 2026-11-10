@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArenaSport1Premium.si@SD" tvg-name="Arena Sport 1 Premium" tvg-logo="" group-title="Eslovenia",Arena Sport 1 Premium
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
+#EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="Exodus TV (720p)" tvg-logo="" group-title="Eslovenia",Exodus TV (720p)
+https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-name="Exodus TV (720p)" tvg-logo="" group-title="Eslovenia",Exodus TV (720p)
+https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="FolxSlovenija.si@SD" tvg-name="Folx Slovenija" tvg-logo="" group-title="Eslovenia",Folx Slovenija
+https://folxsloapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="H2HD.si@SD" tvg-name="H2 HD" tvg-logo="" group-title="Eslovenia",H2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
+#EXTINF:-1 tvg-id="History.si@HD" tvg-name="History" tvg-logo="" group-title="Eslovenia",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
+#EXTINF:-1 tvg-id="History.si@HD" tvg-name="History Channel (1080p)" tvg-logo="" group-title="Eslovenia",History Channel (1080p)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-id="KanalA.si@SD" tvg-name="Kanal A" tvg-logo="" group-title="Eslovenia",Kanal A
+https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-id="TVSLO1.si@SD" tvg-name="SLO 1" tvg-logo="" group-title="Eslovenia",SLO 1
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-id="TVSLO2.si@SD" tvg-name="SLO 2" tvg-logo="" group-title="Eslovenia",SLO 2
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-id="TVSLO3.si@SD" tvg-name="SLO 3" tvg-logo="" group-title="Eslovenia",SLO 3
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-id="StarChannel.si@SD" tvg-name="Star Channel" tvg-logo="" group-title="Eslovenia",Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01s
+#EXTINF:-1 tvg-id="StarCrime.si@SD" tvg-name="Star Crime" tvg-logo="" group-title="Eslovenia",Star Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a02o
+#EXTINF:-1 tvg-id="StarLife.si@SD" tvg-name="Star Life" tvg-logo="" group-title="Eslovenia",Star Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a02n
+#EXTINF:-1 tvg-id="StarMovies.si@SD" tvg-name="Star Movies" tvg-logo="" group-title="Eslovenia",Star Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01o
+#EXTINF:-1 tvg-id="TrzicTV.si@SD" tvg-name="Tržič TV (1080p) [Not 24/7]" tvg-logo="" group-title="Eslovenia",Tržič TV (1080p) [Not 24/7]
+https://vpn.video2go.live:444/trzic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-name="TV SLO 1 HD (1080p) [Not 24/7]" tvg-logo="" group-title="Eslovenia",TV SLO 1 HD (1080p) [Not 24/7]
+http://23.88.66.93/SLO1/index.m3u8
+#EXTINF:-1 tvg-id="TVSLO2.si@HD" tvg-name="TV SLO 2 HD (1080p) [Not 24/7]" tvg-logo="" group-title="Eslovenia",TV SLO 2 HD (1080p) [Not 24/7]
+http://23.88.66.93/SLO2/index.m3u8
+#EXTINF:-1 tvg-id="TelevizijaUrslja.si@SD" tvg-name="TV Uršlja (1080p) [Not 24/7]" tvg-logo="" group-title="Eslovenia",TV Uršlja (1080p) [Not 24/7]
+http://ott.sgn.net/hls/tvurslja.m3u8
+#EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si@SD" tvg-name="TV Veseljak Golica HD" tvg-logo="" group-title="Eslovenia",TV Veseljak Golica HD
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.si@HD" tvg-name="Viasat Explore" tvg-logo="" group-title="Eslovenia",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.si@HD" tvg-name="Viasat History" tvg-logo="" group-title="Eslovenia",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua@Balkan" tvg-name="Viasat Kino Balkan (1080p)" tvg-logo="" group-title="Eslovenia",Viasat Kino Balkan (1080p)
+http://176.61.157.250/TV1000/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.si@SD" tvg-name="Viasat Nature" tvg-logo="" group-title="Eslovenia",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatNature/index.m3u8

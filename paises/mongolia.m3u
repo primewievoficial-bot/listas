@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsianBox.mn@SD" tvg-name="AsianBox (720p)" tvg-logo="" group-title="Mongolia",AsianBox (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Auto TV (720p)" tvg-logo="" group-title="Mongolia",Auto TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn@SD" tvg-name="Bloomberg TV Mongolia HD (720p)" tvg-logo="" group-title="Mongolia",Bloomberg TV Mongolia HD (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-name="Bloomberg TV Plus (720p)" tvg-logo="" group-title="Mongolia",Bloomberg TV Plus (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
+#EXTINF:-1 tvg-id="C1.mn@SD" tvg-name="C1 (720p)" tvg-logo="" group-title="Mongolia",C1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8
+#EXTINF:-1 tvg-id="CentralTV.mn@SD" tvg-name="Central TV (720p)" tvg-logo="" group-title="Mongolia",Central TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
+#EXTINF:-1 tvg-id="CentralTV.mn@SD" tvg-name="Central TV (720p)" tvg-logo="" group-title="Mongolia",Central TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8
+#EXTINF:-1 tvg-id="Channel11.mn@SD" tvg-name="Channel 11 (720p)" tvg-logo="" group-title="Mongolia",Channel 11 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8
+#EXTINF:-1 tvg-id="Cinema.mn@SD" tvg-name="Cinema (720p)" tvg-logo="" group-title="Mongolia",Cinema (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
+#EXTINF:-1 tvg-id="Cinema.mn@SD" tvg-name="Cinema (720p)" tvg-logo="" group-title="Mongolia",Cinema (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+#EXTINF:-1 tvg-id="CNBCMongolia.mn@SD" tvg-name="CNBC Mongolia (720p)" tvg-logo="" group-title="Mongolia",CNBC Mongolia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
+#EXTINF:-1 tvg-id="DreamTV.mn@SD" tvg-name="Dream TV (720p)" tvg-logo="" group-title="Mongolia",Dream TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+#EXTINF:-1 tvg-id="EagleNews.mn@SD" tvg-name="Eagle News HD (720p)" tvg-logo="" group-title="Mongolia",Eagle News HD (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
+#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-name="Education (1080p)" tvg-logo="" group-title="Mongolia",Education (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8
+#EXTINF:-1 tvg-id="ETV.mn@SD" tvg-name="ETV (720p)" tvg-logo="" group-title="Mongolia",ETV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
+#EXTINF:-1 tvg-id="GTV.mn@SD" tvg-name="Gandan TV (720p)" tvg-logo="" group-title="Mongolia",Gandan TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.mn@SD" tvg-name="Global TV (720p)" tvg-logo="" group-title="Mongolia",Global TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
+#EXTINF:-1 tvg-id="LotusTV.mo@SD" tvg-name="Lotus Macau HD 720p (720p)" tvg-logo="" group-title="Mongolia",Lotus Macau HD 720p (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-id="LuxeTVMongolia.mn@SD" tvg-name="Luxe TV Mongolia [Geo-blocked]" tvg-logo="" group-title="Mongolia",Luxe TV Mongolia [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.2 Safari/605.1.15
+https://xykt-fix.github.io/channel/ottliv-038/index.m3u8
+#EXTINF:-1 tvg-id="MalchinTV.mn@SD" tvg-name="Malchin TV (720p)" tvg-logo="" group-title="Mongolia",Malchin TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
+#EXTINF:-1 tvg-id="MNPlus.mn@SD" tvg-name="MN+" tvg-logo="" group-title="Mongolia",MN+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+#EXTINF:-1 tvg-id="TV25.mn@SD" tvg-name="MN25 (720p)" tvg-logo="" group-title="Mongolia",MN25 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8
+#EXTINF:-1 tvg-id="MNB.mn@SD" tvg-name="MNB (576p)" tvg-logo="" group-title="Mongolia",MNB (576p)
+https://live.mnb.mn/hls/mnb.stream.m3u8
+#EXTINF:-1 tvg-id="MNB.mn@SD" tvg-name="MNB (720p)" tvg-logo="" group-title="Mongolia",MNB (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8
+#EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-name="MNB Sport (1080p)" tvg-logo="" group-title="Mongolia",MNB Sport (1080p)
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-name="MNB Sport (720p)" tvg-logo="" group-title="Mongolia",MNB Sport (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-name="MNB World (1080p)" tvg-logo="" group-title="Mongolia",MNB World (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-name="MNB World (576p)" tvg-logo="" group-title="Mongolia",MNB World (576p)
+https://live.mnb.mn/hls/mnb_world.stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNB Гэр бүл (1080p)" tvg-logo="" group-title="Mongolia",MNB Гэр бүл (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
+#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-name="MNB Монголын Мэдээ (576p)" tvg-logo="" group-title="Mongolia",MNB Монголын Мэдээ (576p)
+https://live.mnb.mn/hls/mn2.stream.m3u8
+#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-name="MNB Монголын Мэдээ (720p)" tvg-logo="" group-title="Mongolia",MNB Монголын Мэдээ (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8
+#EXTINF:-1 tvg-id="MongolianNewsChannel.mn@SD" tvg-name="MNC (720p)" tvg-logo="" group-title="Mongolia",MNC (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
+#EXTINF:-1 tvg-id="MovieBox.mn@SD" tvg-name="MovieBox (720p)" tvg-logo="" group-title="Mongolia",MovieBox (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" tvg-name="Nei Monggol TV (960p)" tvg-logo="" group-title="Mongolia",Nei Monggol TV (960p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
+#EXTINF:-1 tvg-id="NTV.mn@SD" tvg-name="NTV (720p)" tvg-logo="" group-title="Mongolia",NTV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8
+#EXTINF:-1 tvg-id="NTV.mn@SD" tvg-name="NTV [Geo-blocked]" tvg-logo="" group-title="Mongolia",NTV [Geo-blocked]
+https://xykt-fix.github.io/channel/ottliv-036/index.m3u8
+#EXTINF:-1 tvg-id="ONTV.mn@SD" tvg-name="ONTV (720p)" tvg-logo="" group-title="Mongolia",ONTV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
+#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-name="Parliament TV (720p)" tvg-logo="" group-title="Mongolia",Parliament TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Popcorn (720p)" tvg-logo="" group-title="Mongolia",Popcorn (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
+#EXTINF:-1 tvg-id="SBN.mn@SD" tvg-name="SBN (720p)" tvg-logo="" group-title="Mongolia",SBN (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8
+#EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-name="Star TV (720p)" tvg-logo="" group-title="Mongolia",Star TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-name="STS Love (576i)" tvg-logo="" group-title="Mongolia",STS Love (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
+#EXTINF:-1 tvg-id="SuldTV.mn@SD" tvg-name="Suld TV (720p)" tvg-logo="" group-title="Mongolia",Suld TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8
+#EXTINF:-1 tvg-id="TenGerTV.mn@SD" tvg-name="TenGer TV (720p)" tvg-logo="" group-title="Mongolia",TenGer TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8
+#EXTINF:-1 tvg-id="TMTV.mn@SD" tvg-name="TM TV (720p)" tvg-logo="" group-title="Mongolia",TM TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8
+#EXTINF:-1 tvg-id="TV5.mn@SD" tvg-name="TV5 (720p)" tvg-logo="" group-title="Mongolia",TV5 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV5HD/HLSv3-FTA/TV5HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV7 (720p)" tvg-logo="" group-title="Mongolia",TV7 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV7/HLSv3-FTA/TV7.m3u8
+#EXTINF:-1 tvg-id="TV8.mn@SD" tvg-name="TV8 (720p)" tvg-logo="" group-title="Mongolia",TV8 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8
+#EXTINF:-1 tvg-id="TV8.mn@SD" tvg-name="TV8 HD (720p)" tvg-logo="" group-title="Mongolia",TV8 HD (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
+#EXTINF:-1 tvg-id="TV9.mn@SD" tvg-name="TV9 (720p)" tvg-logo="" group-title="Mongolia",TV9 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8
+#EXTINF:-1 tvg-id="UBS.mn@SD" tvg-name="UBS (720p)" tvg-logo="" group-title="Mongolia",UBS (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8
+#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-name="Время (720p)" tvg-logo="" group-title="Mongolia",Время (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-name="Мир (720p)" tvg-logo="" group-title="Mongolia",Мир (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-name="Победа 720p (576p)" tvg-logo="" group-title="Mongolia",Победа 720p (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
+#EXTINF:-1 tvg-id="SoyonGegeeruulegchTV.mn@SD" tvg-name="Соён Гэгээрүүлэгч (720p)" tvg-logo="" group-title="Mongolia",Соён Гэгээрүүлэгч (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-name="Телекафе (720p)" tvg-logo="" group-title="Mongolia",Телекафе (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+#EXTINF:-1 tvg-id="TNTInternational.ru@SD" tvg-name="ТНТ International (480p)" tvg-logo="" group-title="Mongolia",ТНТ International (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Хөгжим (720p)" tvg-logo="" group-title="Mongolia",Хөгжим (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
+#EXTINF:-1 tvg-id="UlziiTV.mn@SD" tvg-name="Өлзий ТВ (720p)" tvg-logo="" group-title="Mongolia",Өлзий ТВ (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8

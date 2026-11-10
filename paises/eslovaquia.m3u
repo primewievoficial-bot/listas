@@ -1,0 +1,230 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24.sk@SD" tvg-name=":24 (1080p)" tvg-logo="" group-title="Eslovaquia",:24 (1080p)
+http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport.sk@SD" tvg-name=":Šport (1080p)" tvg-logo="" group-title="Eslovaquia",:Šport (1080p)
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-name="Al Jazeera" tvg-logo="" group-title="Eslovaquia",Al Jazeera
+https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera English" tvg-logo="" group-title="Eslovaquia",Al Jazeera English
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:-1 tvg-id="AntikInfoTV.sk@HD" tvg-name="Antik Info TV (1080p)" tvg-logo="" group-title="Eslovaquia",Antik Info TV (1080p)
+https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1.sk@SD" tvg-name="Arena Sport 1" tvg-logo="" group-title="Eslovaquia",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.50/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSport2.sk@SD" tvg-name="Arena Sport 2" tvg-logo="" group-title="Eslovaquia",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-name="Arirang TV HD" tvg-logo="" group-title="Eslovaquia",Arirang TV HD
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am@SD" tvg-name="Armenia 1" tvg-logo="" group-title="Eslovaquia",Armenia 1
+https://dash2.antik.sk/live/test_armenia/playlist.m3u8
+#EXTINF:-1 tvg-id="arte.de@HD" tvg-name="arte HD" tvg-logo="" group-title="Eslovaquia",arte HD
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-name="BBC News Europe" tvg-logo="" group-title="Eslovaquia",BBC News Europe
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD" tvg-name="Canal+ Sport 2 SK" tvg-logo="" group-title="Eslovaquia",Canal+ Sport 2 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport3SK.sk@SD" tvg-name="Canal+ Sport 3 SK" tvg-logo="" group-title="Eslovaquia",Canal+ Sport 3 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport4SK.sk@SD" tvg-name="Canal+ Sport 4 SK" tvg-logo="" group-title="Eslovaquia",Canal+ Sport 4 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport5SK.sk@SD" tvg-name="Canal+ Sport 5 SK" tvg-logo="" group-title="Eslovaquia",Canal+ Sport 5 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport6SK.sk@SD" tvg-name="Canal+ Sport 6 SK" tvg-logo="" group-title="Eslovaquia",Canal+ Sport 6 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport7SK.sk@SD" tvg-name="Canal+ Sport 7 SK" tvg-logo="" group-title="Eslovaquia",Canal+ Sport 7 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport8SK.sk@SD" tvg-name="Canal+ Sport 8 SK" tvg-logo="" group-title="Eslovaquia",Canal+ Sport 8 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSportSK.sk@SD" tvg-name="Canal+ Sport SK" tvg-logo="" group-title="Eslovaquia",Canal+ Sport SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-name="CCTV-4 Europe" tvg-logo="" group-title="Eslovaquia",CCTV-4 Europe
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-name="CGTN" tvg-logo="" group-title="Eslovaquia",CGTN
+https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn@SD" tvg-name="CGTN Arabic" tvg-logo="" group-title="Eslovaquia",CGTN Arabic
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary" tvg-logo="" group-title="Eslovaquia",CGTN Documentary
+https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-name="CGTN French" tvg-logo="" group-title="Eslovaquia",CGTN French
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn@SD" tvg-name="CGTN Russian" tvg-logo="" group-title="Eslovaquia",CGTN Russian
+https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-name="CGTN Spanish" tvg-logo="" group-title="Eslovaquia",CGTN Spanish
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CT24.cz@SD" tvg-name="CT24" tvg-logo="" group-title="Eslovaquia",CT24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-name="ducktv (720p)" tvg-logo="" group-title="Eslovaquia",ducktv (720p)
+https://jmp2.uk/stvp-ESBC4700001GR
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-name="ducktv (720p)" tvg-logo="" group-title="Eslovaquia",ducktv (720p)
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-name="ducktv (720p)" tvg-logo="" group-title="Eslovaquia",ducktv (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
+#EXTINF:-1 tvg-id="ducktv.sk@HD" tvg-name="ducktv HD" tvg-logo="" group-title="Eslovaquia",ducktv HD
+https://dash3.antik.sk/live/duck_tv/index.m3u8
+#EXTINF:-1 tvg-id="ducktvPLUS.sk@SD" tvg-name="ducktv PLUS" tvg-logo="" group-title="Eslovaquia",ducktv PLUS
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 tvg-id="Dvojka.sk@SD" tvg-name="Dvojka" tvg-logo="" group-title="Eslovaquia",Dvojka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-name="English Club TV" tvg-logo="" group-title="Eslovaquia",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-name="Espreso TV" tvg-logo="" group-title="Eslovaquia",Espreso TV
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-name="Euronews English HD" tvg-logo="" group-title="Eslovaquia",Euronews English HD
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.de@SD" tvg-name="EWTN" tvg-logo="" group-title="Eslovaquia",EWTN
+https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24" tvg-logo="" group-title="Eslovaquia",France 24
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" tvg-name="France 24 English" tvg-logo="" group-title="Eslovaquia",France 24 English
+https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+#EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-name="FREEDOM" tvg-logo="" group-title="Eslovaquia",FREEDOM
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-id="HAHATV.sk@SD" tvg-name="HAHA TV" tvg-logo="" group-title="Eslovaquia",HAHA TV
+https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="hrfernsehen.de@HD" tvg-name="hr-fernsehen HD" tvg-logo="" group-title="Eslovaquia",hr-fernsehen HD
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Jednotka.sk@SD" tvg-name="Jednotka" tvg-logo="" group-title="Eslovaquia",Jednotka
+http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="kabeleins.de@SD" tvg-name="kabel eins" tvg-logo="" group-title="Eslovaquia",kabel eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="KechnecTV.sk@SD" tvg-name="Kechnec TV" tvg-logo="" group-title="Eslovaquia",Kechnec TV
+http://88.212.7.14/live/test_kechnec_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="KiKA.de@HD" tvg-name="KiKA HD" tvg-logo="" group-title="Eslovaquia",KiKA HD
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="LifeTv.sk@SD" tvg-name="LifeTv (1080p)" tvg-logo="" group-title="Eslovaquia",LifeTv (1080p)
+https://lifetv.mpks.sk/s.m3u8
+#EXTINF:-1 tvg-id="MarkizaPlus1.sk@SD" tvg-name="Markiza +1" tvg-logo="" group-title="Eslovaquia",Markiza +1
+http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen" tvg-name="MDR Fernsehen Thuringen" tvg-logo="" group-title="Eslovaquia",MDR Fernsehen Thuringen
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="MTR.sk@SD" tvg-name="MTR (1080p)" tvg-logo="" group-title="Eslovaquia",MTR (1080p)
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD" tvg-name="NDR Fernsehen International" tvg-logo="" group-title="Eslovaquia",NDR Fernsehen International
+https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD" tvg-name="Newsmax TV" tvg-logo="" group-title="Eslovaquia",Newsmax TV
+https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
+#EXTINF:-1 tvg-id="NZTV.sk@SD" tvg-name="NZTV" tvg-logo="" group-title="Eslovaquia",NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+#EXTINF:-1 tvg-id="PolarTV.cz@SD" tvg-name="Polar TV" tvg-logo="" group-title="Eslovaquia",Polar TV
+https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaCoolSK.sk@SD" tvg-name="Prima Cool SK (1080p)" tvg-logo="" group-title="Eslovaquia",Prima Cool SK (1080p)
+http://88.212.15.50/live/prima_cool_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaKrimiSK.sk@HD" tvg-name="Prima Krimi SK" tvg-logo="" group-title="Eslovaquia",Prima Krimi SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.50/live/prima_krimi_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaSK.sk@HD" tvg-name="Prima SK" tvg-logo="" group-title="Eslovaquia",Prima SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_prima_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de@SD" tvg-name="ProSieben (1080p)" tvg-logo="" group-title="Eslovaquia",ProSieben (1080p)
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai1.it@SD" tvg-name="Rai 1 (720p)" tvg-logo="" group-title="Eslovaquia",Rai 1 (720p)
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-name="Rai 3 (720p)" tvg-logo="" group-title="Eslovaquia",Rai 3 (720p)
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRaj.sk@SD" tvg-name="Raj TV (720p) [Not 24/7]" tvg-logo="" group-title="Eslovaquia",Raj TV (720p) [Not 24/7]
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1 tvg-id="rbbFernsehen.de@SD" tvg-name="rbb Fernsehen" tvg-logo="" group-title="Eslovaquia",rbb Fernsehen
+https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTV.sk@SD" tvg-name="Regio TV" tvg-logo="" group-title="Eslovaquia",Regio TV
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTV.sk@SD" tvg-name="Régió TV (406p)" tvg-logo="" group-title="Eslovaquia",Régió TV (406p)
+http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
+#EXTINF:-1 tvg-id="SAT1Gold.de@SD" tvg-name="SAT.1 Gold (576p)" tvg-logo="" group-title="Eslovaquia",SAT.1 Gold (576p)
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Senzi.sk@SD" tvg-name="Senzi (720p)" tvg-logo="" group-title="Eslovaquia",Senzi (720p)
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SilkWay.kz@SD" tvg-name="Silk Way" tvg-logo="" group-title="Eslovaquia",Silk Way
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="sixx.de@SD" tvg-name="sixx" tvg-logo="" group-title="Eslovaquia",sixx
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleviziaMocenok.sk@SD" tvg-name="Televízia Močenok (720p)" tvg-logo="" group-title="Eslovaquia",Televízia Močenok (720p)
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk@SD" tvg-name="Televízia OSEM (360p)" tvg-logo="" group-title="Eslovaquia",Televízia OSEM (360p)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk@SD" tvg-name="Televízia OSEM (576p)" tvg-logo="" group-title="Eslovaquia",Televízia OSEM (576p)
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-name="TRT World HD" tvg-logo="" group-title="Eslovaquia",TRT World HD
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="TurboTV.sk@SD" tvg-name="Turbo TV (1080p)" tvg-logo="" group-title="Eslovaquia",Turbo TV (1080p)
+https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrezova.sk@SD" tvg-name="TV Brezová (540p)" tvg-logo="" group-title="Eslovaquia",TV Brezová (540p)
+http://95.105.193.219:88/hls/tvb.m3u8
+#EXTINF:-1 tvg-id="TVCentral.sk@SD" tvg-name="TV Central" tvg-logo="" group-title="Eslovaquia",TV Central
+https://dash4.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentral.sk@SD" tvg-name="TV Central (540p)" tvg-logo="" group-title="Eslovaquia",TV Central (540p)
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+#EXTINF:-1 tvg-id="TVDK.sk@SD" tvg-name="TV DK (486p) [Not 24/7]" tvg-logo="" group-title="Eslovaquia",TV DK (486p) [Not 24/7]
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDK.sk@SD" tvg-name="TV DK (486p) [Not 24/7]" tvg-logo="" group-title="Eslovaquia",TV DK (486p) [Not 24/7]
+https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLiptov.sk@SD" tvg-name="TV Liptov (1080p)" tvg-logo="" group-title="Eslovaquia",TV Liptov (1080p)
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLocAll.sk@SD" tvg-name="TV LocAll" tvg-logo="" group-title="Eslovaquia",TV LocAll
+https://dash3.antik.sk/live/test_locall/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLocAll.sk@SD" tvg-name="TV LocAll (406p)" tvg-logo="" group-title="Eslovaquia",TV LocAll (406p)
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1 tvg-id="TVLux.sk@SD" tvg-name="TV Lux (720p) [Geo-blocked]" tvg-logo="" group-title="Eslovaquia",TV Lux (720p) [Geo-blocked]
+https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8
+#EXTINF:-1 tvg-id="TVLux.sk@SD" tvg-name="TV Lux (720p) [Not 24/7]" tvg-logo="" group-title="Eslovaquia",TV Lux (720p) [Not 24/7]
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMistral.sk@SD" tvg-name="TV Mistral" tvg-logo="" group-title="Eslovaquia",TV Mistral
+https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMyjava.sk@SD" tvg-name="TV Myjava (540p)" tvg-logo="" group-title="Eslovaquia",TV Myjava (540p)
+http://95.105.193.219:88/hls/tvm.m3u8
+#EXTINF:-1 tvg-id="TVNitricka.sk@SD" tvg-name="TV Nitricka" tvg-logo="" group-title="Eslovaquia",TV Nitricka
+https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
+#EXTINF:-1 tvg-id="NZTV.sk@SD" tvg-name="TV Nové Zámky (486p) [Not 24/7]" tvg-logo="" group-title="Eslovaquia",TV Nové Zámky (486p) [Not 24/7]
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 tvg-id="TVNRSR.sk@SD" tvg-name="TV NRSR (720p) [Not 24/7]" tvg-logo="" group-title="Eslovaquia",TV NRSR (720p) [Not 24/7]
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPanorama.sk@SD" tvg-name="TV Panorama (1080p)" tvg-logo="" group-title="Eslovaquia",TV Panorama (1080p)
+https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
+#EXTINF:-1 tvg-id="TVPoprad.sk@SD" tvg-name="TV Poprad (1080p) [Not 24/7]" tvg-logo="" group-title="Eslovaquia",TV Poprad (1080p) [Not 24/7]
+http://213.81.153.221:8080/poprad
+#EXTINF:-1 tvg-id="TVPovazie.sk@SD" tvg-name="TV Povazie (1080p)" tvg-logo="" group-title="Eslovaquia",TV Povazie (1080p)
+https://dash3.antik.sk/live/test_povazie/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRomana.sk@SD" tvg-name="TV Romana (720p)" tvg-logo="" group-title="Eslovaquia",TV Romana (720p)
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRuzinov.sk@SD" tvg-name="TV Ružinov (1080p) [Not 24/7]" tvg-logo="" group-title="Eslovaquia",TV Ružinov (1080p) [Not 24/7]
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSen.sk@SD" tvg-name="TV Sen (540p)" tvg-logo="" group-title="Eslovaquia",TV Sen (540p)
+http://95.105.193.219:88/hls/tvsen.m3u8
+#EXTINF:-1 tvg-id="TVSeverka.sk@SD" tvg-name="TV Severka (576p) [Not 24/7]" tvg-logo="" group-title="Eslovaquia",TV Severka (576p) [Not 24/7]
+http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSkalica.sk@SD" tvg-name="TV Skalica (540p)" tvg-logo="" group-title="Eslovaquia",TV Skalica (540p)
+http://95.105.193.219:88/hls/tvs.m3u8
+#EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-name="TV SLO 1 HD" tvg-logo="" group-title="Eslovaquia",TV SLO 1 HD
+https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSLO2.si@HD" tvg-name="TV SLO 2 HD" tvg-logo="" group-title="Eslovaquia",TV SLO 2 HD
+https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="TVStaraTura.sk@SD" tvg-name="TV Stará Turá (540p)" tvg-logo="" group-title="Eslovaquia",TV Stará Turá (540p)
+http://95.105.193.219:88/hls/tvst.m3u8
+#EXTINF:-1 tvg-id="TVVega.sk@SD" tvg-name="TV Vega (576p) [Not 24/7]" tvg-logo="" group-title="Eslovaquia",TV Vega (576p) [Not 24/7]
+http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVita.sk@SD" tvg-name="TV Vita" tvg-logo="" group-title="Eslovaquia",TV Vita
+https://dash3.antik.sk/live/test_vita/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk@SD" tvg-name="TV8" tvg-logo="" group-title="Eslovaquia",TV8
+https://dash3.antik.sk/live/test_osem/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9.sk@SD" tvg-name="TV9" tvg-logo="" group-title="Eslovaquia",TV9
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPInfo.pl@SD" tvg-name="TVP Info" tvg-logo="" group-title="Eslovaquia",TVP Info
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPPolonia.pl@SD" tvg-name="TVP Polonia" tvg-logo="" group-title="Eslovaquia",TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPWorld.pl@SD" tvg-name="TVP World" tvg-logo="" group-title="Eslovaquia",TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 tvg-id="TVT.sk@SD" tvg-name="TVT (486p)" tvg-logo="" group-title="Eslovaquia",TVT (486p)
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
+#EXTINF:-1 tvg-id="VIATV.sk@SD" tvg-name="VIA TV" tvg-logo="" group-title="Eslovaquia",VIA TV
+http://88.212.15.50/live/via_tv/index.m3u8
+#EXTINF:-1 tvg-id="VIOTV.sk@SD" tvg-name="VIO TV (480p)" tvg-logo="" group-title="Eslovaquia",VIO TV (480p)
+http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" tvg-name="WDR Fernsehen" tvg-logo="" group-title="Eslovaquia",WDR Fernsehen
+https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk@SD" tvg-name="Zapadoslovenska TV" tvg-logo="" group-title="Eslovaquia",Zapadoslovenska TV
+https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
+#EXTINF:-1 tvg-id="CurrentTimeTV.cz@SD" tvg-name="Настоящее время" tvg-logo="" group-title="Eslovaquia",Настоящее время
+https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8

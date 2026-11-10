@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ADOTV.bj@SD" tvg-name="ADO TV (720p)" tvg-logo="" group-title="Benín",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="BeninTVJunior.bj@SD" tvg-name="Benin TV Junior (720p)" tvg-logo="" group-title="Benín",Benin TV Junior (720p)
+https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="BeninWebTV.bj@SD" tvg-name="Bénin Web TV (720p)" tvg-logo="" group-title="Benín",Bénin Web TV (720p)
+https://stream.beninwebtv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-id="DigitalChannel.bj@SD" tvg-name="Digital Channel (480p)" tvg-logo="" group-title="Benín",Digital Channel (480p)
+https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
+#EXTINF:-1 tvg-id="EdenTV.bj@SD" tvg-name="Eden TV (540p) [Not 24/7]" tvg-logo="" group-title="Benín",Eden TV (540p) [Not 24/7]
+https://rtmp.edentv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="HC2TV.bj@SD" tvg-name="HC2 TV" tvg-logo="" group-title="Benín",HC2 TV
+https://stream.hc2tv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-id="ICONETV.bj@SD" tvg-name="ICONE TV" tvg-logo="" group-title="Benín",ICONE TV
+https://lecteur.iconetv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KassouaTV.bj@SD" tvg-name="KassouaTV (720p)" tvg-logo="" group-title="Benín",KassouaTV (720p)
+https://playtv4k.live/live/kassouatv/index.m3u8
+#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj@SD" tvg-name="Le Nouveau Manager TV" tvg-logo="" group-title="Benín",Le Nouveau Manager TV
+https://lnmlive.com/live/lnmtv.m3u8
+#EXTINF:-1 tvg-id="ORTBTV.bj@HD" tvg-name="ORTB TV (1080i)" tvg-logo="" group-title="Benín",ORTB TV (1080i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="SpeedlineTV.bj@SD" tvg-name="Speedline TV" tvg-logo="" group-title="Benín",Speedline TV
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
+#EXTINF:-1 tvg-id="TVCBenin.bj@SD" tvg-name="TVC Bénin (720p)" tvg-logo="" group-title="Benín",TVC Bénin (720p)
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8

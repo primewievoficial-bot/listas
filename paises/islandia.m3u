@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="K100.is@SD" tvg-name="K100 (1080p)" tvg-logo="" group-title="Islandia",K100 (1080p)
+https://k100streymi.mbl.is/beint/k100/index.m3u8
+#EXTINF:-1 tvg-id="RUV.is@SD" tvg-name="RÚV (720p)" tvg-logo="" group-title="Islandia",RÚV (720p)
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-id="RUV2.is@SD" tvg-name="RÚV 2 (1080p)" tvg-logo="" group-title="Islandia",RÚV 2 (1080p)
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:-1 tvg-id="Visir.is@SD" tvg-name="Vísir (1080p)" tvg-logo="" group-title="Islandia",Vísir (1080p)
+https://live.visir.is/hls-live/visir.smil/playlist.m3u8
