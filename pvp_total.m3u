@@ -1041,6 +1041,8 @@ https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlfaOmegaTV.ro@SD" tvg-name="Alfa Omega TV (1080p) [Not 24/7]" tvg-logo="" group-title="Rumanía",Alfa Omega TV (1080p) [Not 24/7]
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro@SD" tvg-name="Alfa Omega TV (720p) [Not 24/7]" tvg-logo="" group-title="Rumanía",Alfa Omega TV (720p) [Not 24/7]
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelusTV.ro@SD" tvg-name="Angelus TV (1080p)" tvg-logo="" group-title="Rumanía",Angelus TV (1080p)
 https://video.angelustv.ro/hls/angelustv.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro@HD" tvg-name="Antena 1 HD (1440p)" tvg-logo="" group-title="Rumanía",Antena 1 HD (1440p)
@@ -1072,6 +1074,8 @@ https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09_2600k.m3u8
 https://live77cdn2.antenaplay.ro/live2_srt/live2_srt_3000k.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD" tvg-name="AntenaSport" tvg-logo="" group-title="Rumanía",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
+#EXTINF:-1 tvg-id="ArdealTV.ro@SD" tvg-name="Ardeal TV (480p)" tvg-logo="" group-title="Rumanía",Ardeal TV (480p)
+https://frn.rtsp.me/wzhx8pmNF7-kstp_J0AdjA/1695647213/hls/yZ9ED27Q.m3u8
 #EXTINF:-1 tvg-id="ArgesTV.ro@SD" tvg-name="Arges TV (720p)" tvg-logo="" group-title="Rumanía",Arges TV (720p)
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 #EXTINF:-1 tvg-id="ASTV.ro@SD" tvg-name="AS TV (576p)" tvg-logo="" group-title="Rumanía",AS TV (576p)
@@ -1088,6 +1092,8 @@ https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 https://www.btv.ro/hls/banat-tv.m3u8
 #EXTINF:-1 tvg-id="BihorTV.ro@SD" tvg-name="Bihor TV (576p)" tvg-logo="" group-title="Rumanía",Bihor TV (576p)
 https://bihor-tv.ro/hls/bihortv.m3u8
+#EXTINF:-1 tvg-id="BollywoodClassic.ro@SD" tvg-name="Bollywood Classic (1080p)" tvg-logo="" group-title="Rumanía",Bollywood Classic (1080p)
+http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" tvg-name="Bollywood Classic Romania" tvg-logo="" group-title="Rumanía",Bollywood Classic Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -1103,6 +1109,8 @@ https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 https://tvboom.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-name="Bucovina TV (576i)" tvg-logo="" group-title="Rumanía",Bucovina TV (576i)
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+#EXTINF:-1 tvg-id="CaTine.ro@SD" tvg-name="CaTine (720p)" tvg-logo="" group-title="Rumanía",CaTine (720p)
+https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
 #EXTINF:-1 tvg-id="Chefilacutite.ro@SD" tvg-name="Chefi la cutite (576i)" tvg-logo="" group-title="Rumanía",Chefi la cutite (576i)
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
 #EXTINF:-1 tvg-id="Chefiro.ro@SD" tvg-name="Chefi.ro (1080p)" tvg-logo="" group-title="Rumanía",Chefi.ro (1080p)
@@ -1117,6 +1125,8 @@ https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-name="Comedy Play (576i)" tvg-logo="" group-title="Rumanía",Comedy Play (576i)
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-name="Comedy Play (720p)" tvg-logo="" group-title="Rumanía",Comedy Play (720p)
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 #EXTINF:-1 tvg-id="CredoTV.ro@SD" tvg-name="Credo TV (1080p)" tvg-logo="" group-title="Rumanía",Credo TV (1080p)
 https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="CredoTV.ro@SD" tvg-name="Credo TV (720p) [Not 24/7]" tvg-logo="" group-title="Rumanía",Credo TV (720p) [Not 24/7]
@@ -1131,8 +1141,6 @@ https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 #EXTINF:-1 tvg-id="DiscoMix.ro@SD" tvg-name="Disco Mix (576i) [Geo-blocked]" tvg-logo="" group-title="Rumanía",Disco Mix (576i) [Geo-blocked]
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.ro@SD" tvg-name="Discovery Channel" tvg-logo="" group-title="Rumanía",Discovery Channel
-http://92.180.26.103:80/stream/28/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.ro@SD" tvg-name="Disney Channel" tvg-logo="" group-title="Rumanía",Disney Channel
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -1153,10 +1161,14 @@ https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
+#EXTINF:-1 tvg-id="EuronewsRomania.ro@SD" tvg-name="Euronews Romania" tvg-logo="" group-title="Rumanía",Euronews Romania
+https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
 #EXTINF:-1 tvg-id="EuronewsRomania.ro@SD" tvg-name="Euronews Romania (576p)" tvg-logo="" group-title="Rumanía",Euronews Romania (576p)
 https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România Ⓨ" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="Rumanía",Euronews România Ⓨ
 https://www.youtube.com/euronewsro/live
+#EXTINF:-1 tvg-id="ExclusivTV.ro@SD" tvg-name="Exclusiv TV" tvg-logo="" group-title="Rumanía",Exclusiv TV
+https://ythls.armelin.one/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8
 #EXTINF:-1 tvg-id="TVSE.ro@SD" tvg-name="Exploris (576p) [Not 24/7]" tvg-logo="" group-title="Rumanía",Exploris (576p) [Not 24/7]
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="FavoritTV.ro@SD" tvg-name="Favorit TV (576p)" tvg-logo="" group-title="Rumanía",Favorit TV (576p)
@@ -1165,6 +1177,10 @@ https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 #EXTINF:-1 tvg-id="HD365TV.ro@SD" tvg-name="HD365 TV" tvg-logo="" group-title="Rumanía",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
+#EXTINF:-1 tvg-id="HD365TV.ro@SD" tvg-name="HD365 TV (576p)" tvg-logo="" group-title="Rumanía",HD365 TV (576p)
+https://testcam.go.ro:8080/hls/hd365.m3u8
+#EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-name="Hello Taste (720p)" tvg-logo="" group-title="Rumanía",Hello Taste (720p)
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 #EXTINF:-1 tvg-id="Hunedoara1.ro@SD" tvg-name="Hunedoara 1 (480p) [Not 24/7]" tvg-logo="" group-title="Rumanía",Hunedoara 1 (480p) [Not 24/7]
 https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-id="IasiTVLife.ro@SD" tvg-name="IasiTV Life (1080p) [Not 24/7]" tvg-logo="" group-title="Rumanía",IasiTV Life (1080p) [Not 24/7]
@@ -1182,12 +1198,16 @@ https://online.tvimpact.live/hls/impact_tv.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 #EXTINF:-1 tvg-id="IneditTV.ro@SD" tvg-name="Inedit TV" tvg-logo="" group-title="Rumanía",Inedit TV
 https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="InfoTVRomania.ro@SD" tvg-name="Info TV Romania (1080p)" tvg-logo="" group-title="Rumanía",Info TV Romania (1080p)
+https://euw32.playlist.ttvnw.net/v1/playlist/CtMEHCWSOLVBIjzQRcYCDzxENBPC6QqL19TpF5ZzroQT-yNzbMsnZXDlRrM1BO_2b6B7tSj4UoyGleh1IEErCJvZXm2eKnttsjBlm1UWcu9ScTtqCCA0AQTpiAl701WUV4dCdtucbddiDtMpNARcl1umUiox9zdJ7saZS-007zh-cbMCfmc8wVX53DJqfivrOcg6ftsD8p4-z0lF7zimP_IOuZeLag9CNrrY7vRkQfYIKZcFsQza5myUR5Rat5Mo7BIdvsuOnFbULzL83qRdTOXOBEzKx73HrEXXRatJtHFxITl_m-4LzU44DCGHnrr1DwsSA5exWtvNvvcbdTx0MsmP-mBfLl__P3EVC4monCpTfMJAFwxnFf9AReWkPrvK4NTasVMnoXQ2Whzm4BmM9JwcyJPdWADFXvizZzYu-9beVSvbZxFJ1iIKI-2F-oThl8QfH9s6T6EVEu3-Q27YrZhjwdJoqyHjvL-4vn0RC6REzM4XSkfEmJEu91-9Zw9nVhvWTFxoh2exnuCWGdXhMKjfhpTGH4WquIZBQvscG_0bh7BxYkUu1GGDo5OIP17dNEx6j410QancOzFxe5ORNJ5q0zCQdZ1QAvO3qO00mXjNwhG6S7A30bUzqcH5hhzOxsFQZFgOgoLtDJH5YLggf4McxMRgIIWbRyTkcYonUjjP_CeEgg8jV3hIRE1FZWV6gOlhQoAxPr3rK91hKaM40y_6UYCdgUGsI6s1-wQvI6vGpKrwzTkxdNqFQHddjqKb2r6GBsEqEtGZPSP1T9ZhRH6iPz2u2BoM-X76Wi1YVfDbFLhBIAEqCWV1LXdlc3QtMjD3DA.m3u8
 #EXTINF:-1 tvg-id="InformatiaTV.ro@SD" tvg-name="Informatia TV" tvg-logo="" group-title="Rumanía",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="Insulanonstop.ro@SD" tvg-name="Insula non stop (576i)" tvg-logo="" group-title="Rumanía",Insula non stop (576i)
 https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro@SD" tvg-name="Intermedia TV (576p)" tvg-logo="" group-title="Rumanía",Intermedia TV (576p)
 https://live.intermediatv.ro/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="IntermediaTV.ro@SD" tvg-name="Intermedia TV (576p) [Not 24/7]" tvg-logo="" group-title="Rumanía",Intermedia TV (576p) [Not 24/7]
+http://83.103.150.198:8080
 #EXTINF:-1 tvg-id="iRoast.ro@SD" tvg-name="iRoast (576p)" tvg-logo="" group-title="Rumanía",iRoast (576p)
 https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
 #EXTINF:-1 tvg-id="iUmor.ro@SD" tvg-name="iUmor (576p)" tvg-logo="" group-title="Rumanía",iUmor (576p)
@@ -1198,8 +1218,12 @@ https://jobtvserver.eu/hls/stream_src/index.m3u8
 https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalD.ro@SD" tvg-name="Kanal D (480p)" tvg-logo="" group-title="Rumanía",Kanal D (480p)
 https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-id="KanalD.ro@SD" tvg-name="Kanal D (480p)" tvg-logo="" group-title="Rumanía",Kanal D (480p)
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-name="Kanal D2 (1080i)" tvg-logo="" group-title="Rumanía",Kanal D2 (1080i)
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
+#EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-name="Kanal D2 (360p)" tvg-logo="" group-title="Rumanía",Kanal D2 (360p)
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 #EXTINF:-1 tvg-id="KapitalTV.ro@SD" tvg-name="Kapital TV (576i)" tvg-logo="" group-title="Rumanía",Kapital TV (576i)
 https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro@SD" tvg-name="Kiss TV (1080p)" tvg-logo="" group-title="Rumanía",Kiss TV (1080p)
@@ -1212,14 +1236,12 @@ https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="MediCOOLTV.ro@SD" tvg-name="MediCOOL TV" tvg-logo="" group-title="Rumanía",MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="MediCOOLTV.ro@SD" tvg-name="MediCOOL TV (720p)" tvg-logo="" group-title="Rumanía",MediCOOL TV (720p)
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="MetropolaTV.ro@SD" tvg-name="Metropola TV (1080p) [Not 24/7]" tvg-logo="" group-title="Rumanía",Metropola TV (1080p) [Not 24/7]
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-#EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (480p)" tvg-logo="" group-title="Rumanía",Mireasa (480p)
-https://live77cdn2.antenaplay.ro/live2_mireasaunu/live2_mireasaunu.m3u8
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="" group-title="Rumanía",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-#EXTINF:-1 tvg-id="MireasaPlus.ro@SD" tvg-name="Mireasa+ (480p)" tvg-logo="" group-title="Rumanía",Mireasa+ (480p)
-https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 #EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV (720p)" tvg-logo="" group-title="Rumanía",MISA TV (720p)
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1 tvg-id="MISATV.ro@Czech" tvg-name="MISA TV Czech (576i) [Not 24/7]" tvg-logo="" group-title="Rumanía",MISA TV Czech (576i) [Not 24/7]
@@ -1228,8 +1250,14 @@ https://vidl.youniverse.name:5050/MSTV/czech_360p/playlist.m3u8
 https://vidh.youniverse.name:5050/MSTV/english/chunklist_w1133422319.m3u8
 #EXTINF:-1 tvg-id="MISATV.ro@Hungarian" tvg-name="MISA TV Hungarian (576i)" tvg-logo="" group-title="Rumanía",MISA TV Hungarian (576i)
 https://vidl.youniverse.name:5050/MSTV/hungarian_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="MoozDance.ro@SD" tvg-name="Mooz Dance" tvg-logo="" group-title="Rumanía",Mooz Dance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-id="MoozDance.ro@HD" tvg-name="Mooz Dance HD (1080i) [Geo-blocked]" tvg-logo="" group-title="Rumanía",Mooz Dance HD (1080i) [Geo-blocked]
 https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
+#EXTINF:-1 tvg-id="MoozHits.ro@SD" tvg-name="Mooz Hits" tvg-logo="" group-title="Rumanía",Mooz Hits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-id="MoozRo.ro@SD" tvg-name="Mooz Ro!" tvg-logo="" group-title="Rumanía",Mooz Ro!
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-name="Muscel TV (720p)" tvg-logo="" group-title="Rumanía",Muscel TV (720p)
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro@SD" tvg-name="Nasul TV (720p) [Not 24/7]" tvg-logo="" group-title="Rumanía",Nasul TV (720p) [Not 24/7]
@@ -1254,6 +1282,8 @@ https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-name="Observator News (360p)" tvg-logo="" group-title="Rumanía",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-name="Observator News (720p)" tvg-logo="" group-title="Rumanía",Observator News (720p)
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-id="OrizontTV.ro@SD" tvg-name="Orizont TV (576i)" tvg-logo="" group-title="Rumanía",Orizont TV (576i)
 https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="PartyMix.ro@HD" tvg-name="Party Mix HD (1080p)" tvg-logo="" group-title="Rumanía",Party Mix HD (1080p)
@@ -1274,6 +1304,10 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-name="PROFI 24 TV" tvg-logo="" group-title="Rumanía",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-name="PROFI 24 TV" tvg-logo="" group-title="Rumanía",PROFI 24 TV
+https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="ProfitNews.ro@SD" tvg-name="Profit News (404p) [Not 24/7]" tvg-logo="" group-title="Rumanía",Profit News (404p) [Not 24/7]
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-name="PROTV News" tvg-logo="" group-title="Rumanía",PROTV News
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="QuantumTV.ro@SD" tvg-name="Quantum TV (576p)" tvg-logo="" group-title="Rumanía",Quantum TV (576p)
@@ -1298,6 +1332,8 @@ https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="RapsodiaTV.ro@SD" tvg-name="Rapsodia TV" tvg-logo="" group-title="Rumanía",Rapsodia TV
 http://hls02ns.antenaplay.ro/hls/rapsoida-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="RapsodiaTV.ro@SD" tvg-name="Rapsodia TV (576p)" tvg-logo="" group-title="Rumanía",Rapsodia TV (576p)
+http://92.86.248.141:8080/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" tvg-name="Realitatea Plus (720p)" tvg-logo="" group-title="Rumanía",Realitatea Plus (720p)
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-name="Realitatea Sportiva (720p)" tvg-logo="" group-title="Rumanía",Realitatea Sportiva (720p)
@@ -1324,8 +1360,6 @@ https://vs2131.vcdn.biz/07f4d8c8729f786dd1bb07d0512b71eb_megogo/live/hls/b/700_2
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro@SD" tvg-name="SperantaTV (1080p)" tvg-logo="" group-title="Rumanía",SperantaTV (1080p)
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
-#EXTINF:-1 tvg-id="SportExtra.ro@HD" tvg-name="Sport Extra HD" tvg-logo="" group-title="Rumanía",Sport Extra HD
-http://92.180.26.103:80/stream/93/index.m3u8
 #EXTINF:-1 tvg-id="SportTotalFM.ro@SD" tvg-name="Sport Total FM (576i)" tvg-logo="" group-title="Rumanía",Sport Total FM (576i)
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ro@SD" tvg-name="Super TV (1080i) [Not 24/7]" tvg-logo="" group-title="Rumanía",Super TV (1080i) [Not 24/7]
@@ -1377,20 +1411,34 @@ https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 http://85.186.146.34:8080
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD" tvg-name="TVPlus Suceava (576p)" tvg-logo="" group-title="Rumanía",TVPlus Suceava (576p)
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-name="TVR 1" tvg-logo="" group-title="Rumanía",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-name="TVR 1 (1440p)" tvg-logo="" group-title="Rumanía",TVR 1 (1440p)
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-name="TVR 2" tvg-logo="" group-title="Rumanía",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-name="TVR 2 (1440p)" tvg-logo="" group-title="Rumanía",TVR 2 (1440p)
 https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro@SD" tvg-name="TVR 3" tvg-logo="" group-title="Rumanía",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVR3.ro@SD" tvg-name="TVR 3 (1440p)" tvg-logo="" group-title="Rumanía",TVR 3 (1440p)
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCluj.ro@SD" tvg-name="TVR Cluj" tvg-logo="" group-title="Rumanía",TVR Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRCluj.ro@SD" tvg-name="TVR Cluj (1440p)" tvg-logo="" group-title="Rumanía",TVR Cluj (1440p)
 https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCraiova.ro@SD" tvg-name="TVR Craiova" tvg-logo="" group-title="Rumanía",TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRCraiova.ro@SD" tvg-name="TVR Craiova (1440p)" tvg-logo="" group-title="Rumanía",TVR Craiova (1440p)
 https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCultural.ro@SD" tvg-name="TVR Cultural" tvg-logo="" group-title="Rumanía",TVR Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro@SD" tvg-name="TVR Cultural (1440p)" tvg-logo="" group-title="Rumanía",TVR Cultural (1440p)
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRFolclor.ro@SD" tvg-name="TVR Folclor (1440p)" tvg-logo="" group-title="Rumanía",TVR Folclor (1440p)
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRIasi.ro@SD" tvg-name="TVR Iasi" tvg-logo="" group-title="Rumanía",TVR Iasi
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRIasi.ro@SD" tvg-name="TVR Iasi (1080p) [Geo-blocked]" tvg-logo="" group-title="Rumanía",TVR Iasi (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://www.tvrplus.ro/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0
@@ -1399,14 +1447,22 @@ https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8
 http://82.208.141.70:8778/1.m3u8
 #EXTINF:-1 tvg-id="TVRIasi.ro@SD" tvg-name="TVR Iasi (1440p)" tvg-logo="" group-title="Rumanía",TVR Iasi (1440p)
 https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-name="TVR Info" tvg-logo="" group-title="Rumanía",TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-name="TVR Info (1440p)" tvg-logo="" group-title="Rumanía",TVR Info (1440p)
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRInternational.ro@SD" tvg-name="TVR International" tvg-logo="" group-title="Rumanía",TVR International
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRInternational.ro@SD" tvg-name="TVR International (1440p)" tvg-logo="" group-title="Rumanía",TVR International (1440p)
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-name="TVR Sport" tvg-logo="" group-title="Rumanía",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-name="TVR Sport (1440p)" tvg-logo="" group-title="Rumanía",TVR Sport (1440p)
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRTarguMures.ro@SD" tvg-name="TVR Targu-Mures (1440p)" tvg-logo="" group-title="Rumanía",TVR Targu-Mures (1440p)
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRTimisoara.ro@SD" tvg-name="TVR Timisoara" tvg-logo="" group-title="Rumanía",TVR Timisoara
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVRTimisoara.ro@SD" tvg-name="TVR Timisoara (1440p)" tvg-logo="" group-title="Rumanía",TVR Timisoara (1440p)
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSat.ro@SD" tvg-name="TVSat (576p) [Not 24/7]" tvg-logo="" group-title="Rumanía",TVSat (576p) [Not 24/7]
@@ -28543,6 +28599,46 @@ http://trn03.bozztv.com/gin-omantv/index.m3u8
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-name="Oman TV (360p)" tvg-logo="" group-title="Omán",Oman TV (360p)
 https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
+#EXTINF:-1 tvg-name="8TV" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Otros",8TV
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-name="8TV" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Otros",8TV
+https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#EXTINF:-1 tvg-name="8TV (1080p)" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Otros",8TV (1080p)
+https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325
+#EXTINF:-1 tvg-name="Awesome TV" tvg-logo="https://i.imgur.com/x90U1Bf.png" group-title="Otros",Awesome TV
+https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
+#EXTINF:-1 tvg-name="CinemaWorld (720p)" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Otros",CinemaWorld (720p)
+http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+#EXTINF:-1 tvg-name="CinemaWorld (720p)" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Otros",CinemaWorld (720p)
+https://cdn.qd.je/163189/cinemaworld
+#EXTINF:-1 tvg-name="DidikTV KPM (1080p)" tvg-logo="https://i.imgur.com/7qehib0.png" group-title="Otros",DidikTV KPM (1080p)
+https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324
+#EXTINF:-1 tvg-name="Drama Sangat (1080p)" tvg-logo="https://i.imgur.com/BqIVmN1.png" group-title="Otros",Drama Sangat (1080p)
+https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
+#EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="Otros",Mezzo
+http://158.101.222.193:88/georgia_play.php?id=mezzo
+#EXTINF:-1 tvg-name="Mezzo (576p)" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="Otros",Mezzo (576p)
+http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-name="NTV7" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-title="Otros",NTV7
+https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#EXTINF:-1 tvg-name="Sony BBC Earth HD (1080p)" tvg-logo="https://dtil.tmsimg.com/assets/s143799_ld_h15_aa.png?lock=720x540" group-title="Otros",Sony BBC Earth HD (1080p)
+http://103.185.24.134:3001/SONY-BBC/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold Select (1080p)" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Otros",Star Gold Select (1080p)
+https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
+#EXTINF:-1 tvg-name="Star Movies Select HD (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Otros",Star Movies Select HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
+#EXTINF:-1 tvg-name="Telefe Interior (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Otros",Telefe Interior (720p)
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
+#EXTINF:-1 tvg-name="TF1 (1080p)" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Otros",TF1 (1080p)
+http://149.62.177.107:9999/TF1/index.m3u8
+#EXTINF:-1 tvg-name="TMC (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="Otros",TMC (1080p)
+http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 tvg-name="Univision East HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Otros",Univision East HD (1080p)
+http://45.190.13.8/UnivisionHD/index.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Otros",Zee Cinema (576p)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1 tvg-name="ZTV (1080p)" tvg-logo="https://zplay.cl/img/ztv.png" group-title="Otros",ZTV (1080p)
+http://45.70.201.81:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="24NewsHD.pk@SD" tvg-name="24 News HD" tvg-logo="" group-title="Pakistán",24 News HD
 https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
 #EXTINF:-1 tvg-id="365News.pk@SD" tvg-name="365 News" tvg-logo="" group-title="Pakistán",365 News
@@ -38299,43 +38395,3 @@ https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-id="YadahTV.zw@SD" tvg-name="Yadah TV (576p) [Not 24/7]" tvg-logo="" group-title="Zimbabue",Yadah TV (576p) [Not 24/7]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
-#EXTINF:-1 tvg-name="8TV" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Otros",8TV
-http://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-name="8TV" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Otros",8TV
-https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-#EXTINF:-1 tvg-name="8TV (1080p)" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Otros",8TV (1080p)
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325
-#EXTINF:-1 tvg-name="Awesome TV" tvg-logo="https://i.imgur.com/x90U1Bf.png" group-title="Otros",Awesome TV
-https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
-#EXTINF:-1 tvg-name="CinemaWorld (720p)" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Otros",CinemaWorld (720p)
-http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
-#EXTINF:-1 tvg-name="CinemaWorld (720p)" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Otros",CinemaWorld (720p)
-https://cdn.qd.je/163189/cinemaworld
-#EXTINF:-1 tvg-name="DidikTV KPM (1080p)" tvg-logo="https://i.imgur.com/7qehib0.png" group-title="Otros",DidikTV KPM (1080p)
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324
-#EXTINF:-1 tvg-name="Drama Sangat (1080p)" tvg-logo="https://i.imgur.com/BqIVmN1.png" group-title="Otros",Drama Sangat (1080p)
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
-#EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="Otros",Mezzo
-http://158.101.222.193:88/georgia_play.php?id=mezzo
-#EXTINF:-1 tvg-name="Mezzo (576p)" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="Otros",Mezzo (576p)
-http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:
-#EXTINF:-1 tvg-name="NTV7" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-title="Otros",NTV7
-https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-#EXTINF:-1 tvg-name="Sony BBC Earth HD (1080p)" tvg-logo="https://dtil.tmsimg.com/assets/s143799_ld_h15_aa.png?lock=720x540" group-title="Otros",Sony BBC Earth HD (1080p)
-http://103.185.24.134:3001/SONY-BBC/index.m3u8
-#EXTINF:-1 tvg-name="Star Gold Select (1080p)" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Otros",Star Gold Select (1080p)
-https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
-#EXTINF:-1 tvg-name="Star Movies Select HD (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Otros",Star Movies Select HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
-#EXTINF:-1 tvg-name="Telefe Interior (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Otros",Telefe Interior (720p)
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
-#EXTINF:-1 tvg-name="TF1 (1080p)" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Otros",TF1 (1080p)
-http://149.62.177.107:9999/TF1/index.m3u8
-#EXTINF:-1 tvg-name="TMC (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="Otros",TMC (1080p)
-http://151.80.18.177:86/TMC/index.m3u8
-#EXTINF:-1 tvg-name="Univision East HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="Otros",Univision East HD (1080p)
-http://45.190.13.8/UnivisionHD/index.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Otros",Zee Cinema (576p)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-#EXTINF:-1 tvg-name="ZTV (1080p)" tvg-logo="https://zplay.cl/img/ztv.png" group-title="Otros",ZTV (1080p)
-http://45.70.201.81:8000/play/a00u/index.m3u8
