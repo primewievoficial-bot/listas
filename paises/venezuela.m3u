@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="123TV.ve@SD" tvg-name="123TV (480p)" tvg-logo="" group-title="Venezuela",123TV (480p)
+http://200.59.191.177:8000/play/a0lb/index.m3u8
+#EXTINF:-1 tvg-id="AbejalesTV.ve@HD" tvg-name="AbejalesTV (720p)" tvg-logo="" group-title="Venezuela",AbejalesTV (720p)
+https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
+#EXTINF:-1 tvg-id="AbejalesTV.ve@HD" tvg-name="AbejalesTV (720p)" tvg-logo="" group-title="Venezuela",AbejalesTV (720p)
+https://streaming5.globalhostla.com/rtplive/abejales/playlist.m3u8
+#EXTINF:-1 tvg-id="AguacateTV.ve@SD" tvg-name="Aguacate TV (1080p)" tvg-logo="" group-title="Venezuela",Aguacate TV (1080p)
+https://stream.aguacatetv.com:3949/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AlcanceTV.ve@SD" tvg-name="Alcance TV (720p)" tvg-logo="" group-title="Venezuela",Alcance TV (720p)
+https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8
+#EXTINF:-1 tvg-id="ANTV.ve@SD" tvg-name="ANTV (720p)" tvg-logo="" group-title="Venezuela",ANTV (720p)
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve@SD" tvg-name="Anzoátegui TV (360p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Anzoátegui TV (360p) [Not 24/7]
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-name="AS3 Sport TV (1080p)" tvg-logo="" group-title="Venezuela",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AudazTV.ve@SD" tvg-name="Audaz TV (432p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Audaz TV (432p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+#EXTINF:-1 tvg-id="BarinasTV.ve@SD" tvg-name="Barinas TV (720p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Barinas TV (720p) [Not 24/7]
+https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTATV.ve@SD" tvg-name="BTA TV (720p)" tvg-logo="" group-title="Venezuela",BTA TV (720p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-id="Canal21Tachira.ve@SD" tvg-name="Canal 21 Táchira (360p)" tvg-logo="" group-title="Venezuela",Canal 21 Táchira (360p)
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD" tvg-name="Canal C del Zulia (1080p)" tvg-logo="" group-title="Venezuela",Canal C del Zulia (1080p)
+#EXTVLCOPT:http-referrer=https://canalc.vercel.app
+https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
+#EXTINF:-1 tvg-id="CanalDiplomatico.ve@SD" tvg-name="Canal Diplomatico" tvg-logo="" group-title="Venezuela",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+#EXTINF:-1 tvg-id="CanalI.ve@SD" tvg-name="Canal I (1080p)" tvg-logo="" group-title="Venezuela",Canal I (1080p)
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+#EXTINF:-1 tvg-id="CatatumboTV.ve@SD" tvg-name="Catatumbo TV (406p)" tvg-logo="" group-title="Venezuela",Catatumbo TV (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-id="Colombeia.ve@SD" tvg-name="Colombeia (576p)" tvg-logo="" group-title="Venezuela",Colombeia (576p)
+http://200.59.191.177:8000/play/a0la/index.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD" tvg-name="eSports Max TV" tvg-logo="" group-title="Venezuela",eSports Max TV
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="EXCTV.ve@SD" tvg-name="Explosión Creativa (720p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Explosión Creativa (720p) [Not 24/7]
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.ve@SD" tvg-name="GlobalTV (480p) [Not 24/7]" tvg-logo="" group-title="Venezuela",GlobalTV (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
+#EXTINF:-1 tvg-id="Globovision.ve@SD" tvg-name="Globovision (576p)" tvg-logo="" group-title="Venezuela",Globovision (576p)
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="GrandeTV.ve@SD" tvg-name="Grande TV" tvg-logo="" group-title="Venezuela",Grande TV
+https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
+#EXTINF:-1 tvg-id="GrandeTV.ve@SD" tvg-name="Grande TV (720p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Grande TV (720p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
+#EXTINF:-1 tvg-id="GuaroTV.ve@SD" tvg-name="Guaro TV (720p)" tvg-logo="" group-title="Venezuela",Guaro TV (720p)
+https://stream.guarotv.net:3592/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="InterTV.ve@SD" tvg-name="interTV (1080p)" tvg-logo="" group-title="Venezuela",interTV (1080p)
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="IslaTV.ve@SD" tvg-name="Isla TV (480p)" tvg-logo="" group-title="Venezuela",Isla TV (480p)
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Italianissimo.ve@SD" tvg-name="Italianissimo (360p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Italianissimo (360p) [Not 24/7]
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 tvg-id="IVC.ve@Venezuela" tvg-name="IVC (480p)" tvg-logo="" group-title="Venezuela",IVC (480p)
+http://200.59.191.177:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="KandelaTV.ve@SD" tvg-name="KandelaTV (480p)" tvg-logo="" group-title="Venezuela",KandelaTV (480p)
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-id="LaTeleTuya.ve@SD" tvg-name="La Tele Tuya (576p)" tvg-logo="" group-title="Venezuela",La Tele Tuya (576p)
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-id="LaPuraCremaTelevision.ve@SD" tvg-name="LaPuraCrema Television" tvg-logo="" group-title="Venezuela",LaPuraCrema Television
+https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
+#EXTINF:-1 tvg-id="LaraenRedes.ve@SD" tvg-name="Lara en Redes" tvg-logo="" group-title="Venezuela",Lara en Redes
+https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="LatinaTV.ve@SD" tvg-name="Latina TV (1080p)" tvg-logo="" group-title="Venezuela",Latina TV (1080p)
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="LGDTelevision.ve@SD" tvg-name="LGD Television (720p)" tvg-logo="" group-title="Venezuela",LGD Television (720p)
+https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-name="MAX Anime (1080p)" tvg-logo="" group-title="Venezuela",MAX Anime (1080p)
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-name="MAX Anime (720p)" tvg-logo="" group-title="Venezuela",MAX Anime (720p)
+http://45.228.234.9:8000/play/a06u/index.m3u8
+#EXTINF:-1 tvg-id="MaximaTV.ve@SD" tvg-name="Maxima TV" tvg-logo="" group-title="Venezuela",Maxima TV
+https://maximatv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MeridianoTV.ve@SD" tvg-name="Meridiano TV (576p)" tvg-logo="" group-title="Venezuela",Meridiano TV (576p)
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="MonagasVision.ve@SD" tvg-name="Monagas Visión (720p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Monagas Visión (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
+#EXTINF:-1 tvg-id="MasTalk.ve@SD" tvg-name="Más Talk (1080p)" tvg-logo="" group-title="Venezuela",Más Talk (1080p)
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-id="NortenaTv.ve@HD" tvg-name="Norteña TV (576p)" tvg-logo="" group-title="Venezuela",Norteña TV (576p)
+https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
+#EXTINF:-1 tvg-id="OasisTelevision.ve@SD" tvg-name="Oasis Televisión (720p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Oasis Televisión (720p) [Not 24/7]
+http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
+#EXTINF:-1 tvg-id="OnzaTV.ve@SD" tvg-name="Onza TV" tvg-logo="" group-title="Venezuela",Onza TV
+https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
+#EXTINF:-1 tvg-id="OnzaTV.ve@SD" tvg-name="Onza TV (720p)" tvg-logo="" group-title="Venezuela",Onza TV (720p)
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+#EXTINF:-1 tvg-id="OxigenoTV.ve@SD" tvg-name="Oxigeno TV (360p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Oxigeno TV (360p) [Not 24/7]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlousTV.ve@SD" tvg-name="Plous TV (1080p)" tvg-logo="" group-title="Venezuela",Plous TV (1080p)
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PortuguesaTelevision.ve@SD" tvg-name="PortuTV (480p) [Not 24/7]" tvg-logo="" group-title="Venezuela",PortuTV (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 tvg-id="ProclamacionTV.ve@SD" tvg-name="Proclamación TV [Not 24/7]" tvg-logo="" group-title="Venezuela",Proclamación TV [Not 24/7]
+https://video2.getstreamhosting.com:19360/8000/8000.m3u8
+#EXTINF:-1 tvg-id="PromarTV.ve@SD" tvg-name="PromarTV (1080p) [Not 24/7]" tvg-logo="" group-title="Venezuela",PromarTV (1080p) [Not 24/7]
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="PromarTV.ve@SD" tvg-name="PromarTV (576p)" tvg-logo="" group-title="Venezuela",PromarTV (576p)
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="ReformaTV.ve@SD" tvg-name="Reforma TV (1080p)" tvg-logo="" group-title="Venezuela",Reforma TV (1080p)
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="ShowVenTV.ve@SD" tvg-name="ShowVen TV (720p)" tvg-logo="" group-title="Venezuela",ShowVen TV (720p)
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
+#EXTINF:-1 tvg-id="SiembraTV.ve@SD" tvg-name="Siembra TV [Not 24/7]" tvg-logo="" group-title="Venezuela",Siembra TV [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+#EXTINF:-1 tvg-id="SomosTV.ve@SD" tvg-name="Somos TV (720p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Somos TV (720p) [Not 24/7]
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsMaxNews.ve@SD" tvg-name="SportsMax News (1080p)" tvg-logo="" group-title="Venezuela",SportsMax News (1080p)
+http://181.79.86.130:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="SunChannel.ve@SD" tvg-name="Sun Channel (720p)" tvg-logo="" group-title="Venezuela",Sun Channel (720p)
+http://168.196.127.137:6001/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="TAMTV.ve@SD" tvg-name="TAM TV" tvg-logo="" group-title="Venezuela",TAM TV
+https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TeleAragua.ve@SD" tvg-name="TeleAragua (480p)" tvg-logo="" group-title="Venezuela",TeleAragua (480p)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 tvg-id="Telebocono.ve@SD" tvg-name="Teleboconó (720p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Teleboconó (720p) [Not 24/7]
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecentro.ve@SD" tvg-name="Telecentro (480p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Telecentro (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@SD" tvg-name="Telesur (1080p)" tvg-logo="" group-title="Venezuela",Telesur (1080p)
+http://181.78.211.244:8005/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@SD" tvg-name="Telesur (480p)" tvg-logo="" group-title="Venezuela",Telesur (480p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@SD" tvg-name="Telesur (720p)" tvg-logo="" group-title="Venezuela",Telesur (720p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@English" tvg-name="Telesur English (480p)" tvg-logo="" group-title="Venezuela",Telesur English (480p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@EnglishHD" tvg-name="Telesur English HD (1080p)" tvg-logo="" group-title="Venezuela",Telesur English HD (1080p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@HD" tvg-name="Telesur HD (1080p)" tvg-logo="" group-title="Venezuela",Telesur HD (1080p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Televen.ve@SD" tvg-name="Televen (1080p)" tvg-logo="" group-title="Venezuela",Televen (1080p)
+http://38.134.250.110:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="Televen.ve@SD" tvg-name="Televen (576p)" tvg-logo="" group-title="Venezuela",Televen (576p)
+http://181.78.8.199:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve@SD" tvg-name="Televisora de Oriente (406p)" tvg-logo="" group-title="Venezuela",Televisora de Oriente (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 tvg-id="TNORadio.ve@SD" tvg-name="TNO Radio (720p)" tvg-logo="" group-title="Venezuela",TNO Radio (720p)
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 tvg-id="TorococoTV.ve@SD" tvg-name="Torococo TV (720p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Torococo TV (720p) [Not 24/7]
+https://us.streaminghd.cl/torococotelevision/video.m3u8
+#EXTINF:-1 tvg-id="TRT.ve@SD" tvg-name="TRT (410p) [Not 24/7]" tvg-logo="" group-title="Venezuela",TRT (410p) [Not 24/7]
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 tvg-id="TuTV.ve@SD" tvg-name="Tu TV (720p)" tvg-logo="" group-title="Venezuela",Tu TV (720p)
+https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
+#EXTINF:-1 tvg-id="TVAndes.ve@SD" tvg-name="TV Andes (720p) [Not 24/7]" tvg-logo="" group-title="Venezuela",TV Andes (720p) [Not 24/7]
+https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFamilia.ve@SD" tvg-name="TV Familia (576p)" tvg-logo="" group-title="Venezuela",TV Familia (576p)
+https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFamilia.ve@SD" tvg-name="TV Familia (720p)" tvg-logo="" group-title="Venezuela",TV Familia (720p)
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 tvg-id="TVFANB.ve@SD" tvg-name="TV FANB (576p)" tvg-logo="" group-title="Venezuela",TV FANB (576p)
+http://200.59.191.177:8000/play/a0le/index.m3u8
+#EXTINF:-1 tvg-id="TVOasisMonay.ve@SD" tvg-name="TV Oasis Monay (1080i)" tvg-logo="" group-title="Venezuela",TV Oasis Monay (1080i)
+https://live.teve.pro/live/tvoasis/index.m3u8
+#EXTINF:-1 tvg-id="TVOasisMonay.ve@SD" tvg-name="TV Oasis Monay (720p)" tvg-logo="" group-title="Venezuela",TV Oasis Monay (720p)
+https://servilive.com:3562/live/vav4c8z38live.m3u8
+#EXTINF:-1 tvg-id="TVes.ve@SD" tvg-name="TVes (1080p)" tvg-logo="" group-title="Venezuela",TVes (1080p)
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
+#EXTINF:-1 tvg-id="TVes.ve@SD" tvg-name="TVes (1080p)" tvg-logo="" group-title="Venezuela",TVes (1080p)
+http://45.226.205.96:48000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="TVMparati.ve@SD" tvg-name="TVM para ti (1080p)" tvg-logo="" group-title="Venezuela",TVM para ti (1080p)
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+#EXTINF:-1 tvg-id="TVS.ve@SD" tvg-name="TVS (720p)" tvg-logo="" group-title="Venezuela",TVS (720p)
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-id="UN24.ve@untv720" tvg-name="UN24 (720p)" tvg-logo="" group-title="Venezuela",UN24 (720p)
+#EXTVLCOPT:http-referrer=https://un24.tv/
+https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
+#EXTINF:-1 tvg-id="UniTV.ve@SD" tvg-name="UniTV (720p)" tvg-logo="" group-title="Venezuela",UniTV (720p)
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ValeTV.ve@SD" tvg-name="Vale TV (480p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Vale TV (480p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 tvg-id="ValeTV.ve@SD" tvg-name="Vale TV (480p) [Not 24/7]" tvg-logo="" group-title="Venezuela",Vale TV (480p) [Not 24/7]
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1 tvg-id="VePlus.ve@Venezuela" tvg-name="Ve Plus (720p)" tvg-logo="" group-title="Venezuela",Ve Plus (720p)
+http://186.148.196.100:8000/play/a01d
+#EXTINF:-1 tvg-id="VePlus.ve@Panregional" tvg-name="Ve Plus Panregional (1080p)" tvg-logo="" group-title="Venezuela",Ve Plus Panregional (1080p)
+http://190.61.114.186:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="Venevision.ve@SD" tvg-name="Venevision (480p)" tvg-logo="" group-title="Venezuela",Venevision (480p)
+https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="Venevision.ve@SD" tvg-name="Venevision (576p)" tvg-logo="" group-title="Venezuela",Venevision (576p)
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve@SD" tvg-name="Venevisión Internacional (720p)" tvg-logo="" group-title="Venezuela",Venevisión Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-id="VepacoTV.ve@SD" tvg-name="Vepaco TV (480p)" tvg-logo="" group-title="Venezuela",Vepaco TV (480p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-id="Vive.ve@SD" tvg-name="Vive (576p)" tvg-logo="" group-title="Venezuela",Vive (576p)
+http://200.59.191.177:8000/play/a0l6/index.m3u8
+#EXTINF:-1 tvg-id="WataVision.ve@SD" tvg-name="Wata Vision" tvg-logo="" group-title="Venezuela",Wata Vision
+https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8

@@ -1,0 +1,310 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="247BoxTV.ir@SD" tvg-name="247 Box TV" tvg-logo="" group-title="Irán",247 Box TV
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4Afghanistan.fr@SD" tvg-name="4 Afghanistan" tvg-logo="" group-title="Irán",4 Afghanistan
+https://4afghls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4Music.fr@SD" tvg-name="4 Music" tvg-logo="" group-title="Irán",4 Music
+https://itthls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AbadanTV.ir@SD" tvg-name="Abadan" tvg-logo="" group-title="Irán",Abadan
+https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AflakTV.ir@SD" tvg-name="Aflak" tvg-logo="" group-title="Irán",Aflak
+https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AFNTV.ir@SD" tvg-name="AFN TV (720p)" tvg-logo="" group-title="Irán",AFN TV (720p)
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-id="AfraFilm.ir@SD" tvg-name="Afra Film" tvg-logo="" group-title="Irán",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AfraSeries.ir@SD" tvg-name="Afra Series" tvg-logo="" group-title="Irán",Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AftabTV.ir@SD" tvg-name="Aftab" tvg-logo="" group-title="Irán",Aftab
+https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlWilayah.ir@SD" tvg-name="Al Wilayah (720p)" tvg-logo="" group-title="Irán",Al Wilayah (720p)
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+#EXTINF:-1 tvg-id="AlborzTV.ir@SD" tvg-name="Alborz" tvg-logo="" group-title="Irán",Alborz
+https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AmouzeshTV.ir@SD" tvg-name="Amouzesh" tvg-logo="" group-title="Irán",Amouzesh
+https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AraTV.ir@SD" tvg-name="Ara" tvg-logo="" group-title="Irán",Ara
+https://ncdn.telewebion.ir/ara/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AraxTV.ir@SD" tvg-name="Arax TV" tvg-logo="" group-title="Irán",Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ArkoTV.ir@SD" tvg-name="Arko TV" tvg-logo="" group-title="Irán",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ArvanTV.ir@SD" tvg-name="Arvan TV" tvg-logo="" group-title="Irán",Arvan TV
+https://arvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ArvanTV.ir@SD" tvg-name="Arvan TV" tvg-logo="" group-title="Irán",Arvan TV
+https://me2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AsilTV.ir@SD" tvg-name="Asil TV (576p)" tvg-logo="" group-title="Irán",Asil TV (576p)
+https://live.asil.tv/asiltv/index.m3u8
+#EXTINF:-1 tvg-id="AssiratTV.ir@SD" tvg-name="Assirat TV (576p)" tvg-logo="" group-title="Irán",Assirat TV (576p)
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
+#EXTINF:-1 tvg-id="AtrakTV.ir@SD" tvg-name="Atrak" tvg-logo="" group-title="Irán",Atrak
+https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AtrinaTV.ir@SD" tvg-name="Atrina TV" tvg-logo="" group-title="Irán",Atrina TV
+https://atrihls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVAFamily.ir@SD" tvg-name="AVA Family" tvg-logo="" group-title="Irán",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVASeries.ir@SD" tvg-name="AVA Series" tvg-logo="" group-title="Irán",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-name="Azerbaijan Gharbi" tvg-logo="" group-title="Irán",Azerbaijan Gharbi
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BaranTV.ir@SD" tvg-name="Baran" tvg-logo="" group-title="Irán",Baran
+https://ncdn.telewebion.ir/baran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BravoFarsiTV.ir@SD" tvg-name="Bravo Farsi TV (360p)" tvg-logo="" group-title="Irán",Bravo Farsi TV (360p)
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BoushehrTV.ir@SD" tvg-name="Bushehr" tvg-logo="" group-title="Irán",Bushehr
+https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CafeFilm.ir@SD" tvg-name="Cafe Film" tvg-logo="" group-title="Irán",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CafeTradeTV.ir@SD" tvg-name="Cafe Trade TV" tvg-logo="" group-title="Irán",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ClassicTV.ir@SD" tvg-name="Classic TV" tvg-logo="" group-title="Irán",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DatisTV.ir@SD" tvg-name="Datis TV" tvg-logo="" group-title="Irán",Datis TV
+https://ronhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DejTV.ir@HD" tvg-name="Dej TV" tvg-logo="" group-title="Irán",Dej TV
+https://rdejhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DenaTV.ir@SD" tvg-name="Dena" tvg-logo="" group-title="Irán",Dena
+https://ncdn.telewebion.ir/dena/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Energy.ir@SD" tvg-name="Energy" tvg-logo="" group-title="Irán",Energy
+https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EPlanetTV.ir@SD" tvg-name="EPlanet TV" tvg-logo="" group-title="Irán",EPlanet TV
+https://eplhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="EshraghNetwork.ir@SD" tvg-name="Eshragh" tvg-logo="" group-title="Irán",Eshragh
+https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FarsTV.ir@SD" tvg-name="Fars" tvg-logo="" group-title="Irán",Fars
+https://ncdn.telewebion.ir/fars/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FX1.ir@SD" tvg-name="FX TV 1" tvg-logo="" group-title="Irán",FX TV 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FX2.ir@SD" tvg-name="FX TV 2" tvg-logo="" group-title="Irán",FX TV 2
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GoldStar.ir@SD" tvg-name="Gold Star" tvg-logo="" group-title="Irán",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GolkhaneTv.ir@SD" tvg-name="Golkhane TV" tvg-logo="" group-title="Irán",Golkhane TV
+https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8
+#EXTINF:-1 tvg-id="GrandCinema.tr@SD" tvg-name="Grand Cinema" tvg-logo="" group-title="Irán",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="HabibTV.ir@SD" tvg-name="Habib TV" tvg-logo="" group-title="Irán",Habib TV
+https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HamedanTV.ir@SD" tvg-name="Hamedan" tvg-logo="" group-title="Irán",Hamedan
+https://ncdn.telewebion.ir/sina/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HamoonTV.ir@SD" tvg-name="Hamoon" tvg-logo="" group-title="Irán",Hamoon
+https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HispanTV.ir@SD" tvg-name="Hispan TV" tvg-logo="" group-title="Irán",Hispan TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD" tvg-name="HodHod Farsi TV (1080p)" tvg-logo="" group-title="Irán",HodHod Farsi TV (1080p)
+https://northtelecom.b-cdn.net/hodhodtv.m3u8
+#EXTINF:-1 tvg-id="HomePlus.ir@SD" tvg-name="Home Plus" tvg-logo="" group-title="Irán",Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ICCplus.us@SD" tvg-name="ICC Plus (1080p)" tvg-logo="" group-title="Irán",ICC Plus (1080p)
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ICnet1.ca@SD" tvg-name="icnet 1" tvg-logo="" group-title="Irán",icnet 1
+https://icnet1hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ICnet2.ca@SD" tvg-name="icnet 2" tvg-logo="" group-title="Irán",icnet 2
+https://icnet2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="icnet3.ca@SD" tvg-name="icnet 3" tvg-logo="" group-title="Irán",icnet 3
+https://ic3hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-name="iFilm" tvg-logo="" group-title="Irán",iFilm
+https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
+#EXTINF:-1 tvg-id="iFilm2.ir@SD" tvg-name="iFilm 2" tvg-logo="" group-title="Irán",iFilm 2
+https://live.presstv.co.uk/hls/ifilm2.m3u8
+#EXTINF:-1 tvg-id="iFilmArabic.ir@SD" tvg-name="iFilm Arabic" tvg-logo="" group-title="Irán",iFilm Arabic
+https://live.presstv.co.uk/hls/ifilmar.m3u8
+#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-name="iFilm English" tvg-logo="" group-title="Irán",iFilm English
+https://live.presstv.co.uk/hls/ifilmen.m3u8
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-name="iFilm Persian" tvg-logo="" group-title="Irán",iFilm Persian
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-id="IlamTV.ir@SD" tvg-name="Ilam" tvg-logo="" group-title="Irán",Ilam
+https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IranJewishTV.ir@SD" tvg-name="Iran Jewish TV (720p)" tvg-logo="" group-title="Irán",Iran Jewish TV (720p)
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+#EXTINF:-1 tvg-id="IranNama.fr@SD" tvg-name="Iran Nama" tvg-logo="" group-title="Irán",Iran Nama
+https://iran613hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IranPress.ir@SD" tvg-name="Iran Press" tvg-logo="" group-title="Irán",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-id="IRIBUHD.ir@4K" tvg-name="IRIB UHD (2160p)" tvg-logo="" group-title="Irán",IRIB UHD (2160p)
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB1.ir@SD" tvg-name="IRIB1" tvg-logo="" group-title="Irán",IRIB1
+https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB2.ir@SD" tvg-name="IRIB2" tvg-logo="" group-title="Irán",IRIB2
+https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB3.ir@SD" tvg-name="IRIB3" tvg-logo="" group-title="Irán",IRIB3
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB4.ir@SD" tvg-name="IRIB4" tvg-logo="" group-title="Irán",IRIB4
+https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-name="IRINN (576p)" tvg-logo="" group-title="Irán",IRINN (576p)
+http://185.9.2.18/chid_926/index.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-name="IRINN Live Farsi News" tvg-logo="" group-title="Irán",IRINN Live Farsi News
+https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRINN2.ir@SD" tvg-name="IRINN2 Live Farsi News" tvg-logo="" group-title="Irán",IRINN2 Live Farsi News
+https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IsfahanTV.ir@SD" tvg-name="Isfahan" tvg-logo="" group-title="Irán",Isfahan
+https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JahanbinTV.ir@SD" tvg-name="Jahanbin" tvg-logo="" group-title="Irán",Jahanbin
+https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KalemehTV.uk@HD" tvg-name="Kalemeh TV" tvg-logo="" group-title="Irán",Kalemeh TV
+https://klmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KanalJadid.uk@SD" tvg-name="Kanal Jadid" tvg-logo="" group-title="Irán",Kanal Jadid
+https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KermanTV.ir@SD" tvg-name="Kerman" tvg-logo="" group-title="Irán",Kerman
+https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhalijTV.ir@HD" tvg-name="Khalij TV" tvg-logo="" group-title="Irán",Khalij TV
+https://khalijhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KhalijeFarsTV.ir@SD" tvg-name="Khalij-e Fars" tvg-logo="" group-title="Irán",Khalij-e Fars
+https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhavaranTV.ir@SD" tvg-name="Khavaran" tvg-logo="" group-title="Irán",Khavaran
+https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhorasanRazaviTV.ir@SD" tvg-name="Khorasan Razavi" tvg-logo="" group-title="Irán",Khorasan Razavi
+https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhozestanTV.ir@SD" tvg-name="Khozestan" tvg-logo="" group-title="Irán",Khozestan
+https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KishTV.ir@SD" tvg-name="Kish" tvg-logo="" group-title="Irán",Kish
+https://ncdn.telewebion.ir/kish/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KomalaTV.se@SD" tvg-name="Komala TV" tvg-logo="" group-title="Irán",Komala TV
+https://komhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KordestanTV.ir@SD" tvg-name="Kordestan" tvg-logo="" group-title="Irán",Kordestan
+https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdChannel.iq@SD" tvg-name="Kurd Channel" tvg-logo="" group-title="Irán",Kurd Channel
+https://kurdchhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="LabbaykTV.ir@SD" tvg-name="Labbayk TV" tvg-logo="" group-title="Irán",Labbayk TV
+https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MahabadTV.ir@SD" tvg-name="Mahabad" tvg-logo="" group-title="Irán",Mahabad
+https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MetaFilmTV.ir@SD" tvg-name="Meta Film TV" tvg-logo="" group-title="Irán",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MihanTV.ir@SD" tvg-name="Mihan TV" tvg-logo="" group-title="Irán",Mihan TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 tvg-id="MohabatTV.us@HD" tvg-name="Mohabat TV" tvg-logo="" group-title="Irán",Mohabat TV
+https://mohabathls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MohabatTV.ir@SD" tvg-name="Mohabat TV (540p)" tvg-logo="" group-title="Irán",Mohabat TV (540p)
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MohabatTV.ir@SD" tvg-name="Mohabat TV (540p)" tvg-logo="" group-title="Irán",Mohabat TV (540p)
+https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIBMostanad.ir@SD" tvg-name="Mostanad" tvg-logo="" group-title="Irán",Mostanad
+https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MTC.us@SD" tvg-name="MTC TV" tvg-logo="" group-title="Irán",MTC TV
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NamayeshTV.ir@SD" tvg-name="Namayesh" tvg-logo="" group-title="Irán",Namayesh
+https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Nasim.ir@SD" tvg-name="Nasim" tvg-logo="" group-title="Irán",Nasim
+https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalIranianCongressTV.us@SD" tvg-name="National Iranian Congress TV" tvg-logo="" group-title="Irán",National Iranian Congress TV
+https://tv.iraniancongress.com/stream/tv.m3u8
+#EXTINF:-1 tvg-id="NavahangTV.fi@SD" tvg-name="Navahang TV" tvg-logo="" group-title="Irán",Navahang TV
+https://simahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nesfejahan" tvg-logo="" group-title="Irán",Nesfejahan
+https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NewFlix.ir@SD" tvg-name="Newflix" tvg-logo="" group-title="Irán",Newflix
+https://newfhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NoorTV.ir@SD" tvg-name="Noor" tvg-logo="" group-title="Irán",Noor
+https://ncdn.telewebion.ir/noor/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OfoghTV.ir@SD" tvg-name="Ofogh" tvg-logo="" group-title="Irán",Ofogh
+https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIBOmid.ir@SD" tvg-name="Omid" tvg-logo="" group-title="Irán",Omid
+https://ncdn.telewebion.ir/omid/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OmideIranTV.us@SD" tvg-name="Omide Iran" tvg-logo="" group-title="Irán",Omide Iran
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="OXIRTV.ir@SD" tvg-name="OXIR TV" tvg-logo="" group-title="Irán",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Palestinetv.ir@SD" tvg-name="Palestine" tvg-logo="" group-title="Irán",Palestine
+https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ParsTV.us@SD" tvg-name="Pars TV" tvg-logo="" group-title="Irán",Pars TV
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PayvandTV.ir@SD" tvg-name="Payvand TV (720p) [Not 24/7]" tvg-logo="" group-title="Irán",Payvand TV (720p) [Not 24/7]
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-name="Persiana Cinema" tvg-logo="" group-title="Irán",Persiana Cinema
+https://todayhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaMedical.fr@SD" tvg-name="Persiana Medical" tvg-logo="" group-title="Irán",Persiana Medical
+https://tfnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaTravel.fr@SD" tvg-name="Persiana Travel" tvg-logo="" group-title="Irán",Persiana Travel
+https://mardomhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PMC.ae@SD" tvg-name="PMC" tvg-logo="" group-title="Irán",PMC
+https://pmchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PMCRoyale.ae@SD" tvg-name="PMC Royale (1080p)" tvg-logo="" group-title="Irán",PMC Royale (1080p)
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-name="Pooya & Nahal" tvg-logo="" group-title="Irán",Pooya & Nahal
+https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-name="Pooya TV" tvg-logo="" group-title="Irán",Pooya TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PooyaTVPlus.ir@SD" tvg-name="Pooya TV Plus" tvg-logo="" group-title="Irán",Pooya TV Plus
+https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-name="Press TV" tvg-logo="" group-title="Irán",Press TV
+https://live.presstv.co.uk/hls/presstv.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-name="Press TV (720p)" tvg-logo="" group-title="Irán",Press TV (720p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
+#EXTINF:-1 tvg-id="PressTVFrench.ir@SD" tvg-name="Press TV French (1080p)" tvg-logo="" group-title="Irán",Press TV French (1080p)
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QazvinTV.ir@SD" tvg-name="Qazvin" tvg-logo="" group-title="Irán",Qazvin
+https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="QuranTV.ir@SD" tvg-name="Quran" tvg-logo="" group-title="Irán",Quran
+https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RasoulallahTv.ir@HD" tvg-name="RasoulallahTv (1080p)" tvg-logo="" group-title="Irán",RasoulallahTv (1080p)
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RazaviTV.ir@SD" tvg-name="Razavi TV" tvg-logo="" group-title="Irán",Razavi TV
+https://ncdn.telewebion.ir/razavi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RoyaTV.ir@SD" tvg-name="Roya TV" tvg-logo="" group-title="Irán",Roya TV
+https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SabalanTV.ir@SD" tvg-name="Sabalan" tvg-logo="" group-title="Irán",Sabalan
+https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SabzTV.ir@SD" tvg-name="Sabz" tvg-logo="" group-title="Irán",Sabz
+https://ncdn.telewebion.ir/sabz/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SahandTV.ir@SD" tvg-name="Sahand" tvg-logo="" group-title="Irán",Sahand
+https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SalamatTV.ir@SD" tvg-name="Salamat" tvg-logo="" group-title="Irán",Salamat
+https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SarbedaranTV.ir@SD" tvg-name="Sarbedaran" tvg-logo="" group-title="Irán",Sarbedaran
+https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat7Pars.cy@SD" tvg-name="Sat7 Pars" tvg-logo="" group-title="Irán",Sat7 Pars
+https://sat7phls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SemnanTV.ir@SD" tvg-name="Semnan" tvg-logo="" group-title="Irán",Semnan
+https://ncdn.telewebion.ir/semnan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SepehrTV.ir@SD" tvg-name="Sepehr" tvg-logo="" group-title="Irán",Sepehr
+https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SetarehTV.uk@HD" tvg-name="Setareh TV" tvg-logo="" group-title="Irán",Setareh TV
+https://setarehhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Shabakeh7.us@SD" tvg-name="Shabakeh 7" tvg-logo="" group-title="Irán",Shabakeh 7
+https://sh7hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SL1.ir@SD" tvg-name="SL 1" tvg-logo="" group-title="Irán",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SL2.ir@SD" tvg-name="SL 2" tvg-logo="" group-title="Irán",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SNNTV.ir@SD" tvg-name="SNN TV [Not 24/7]" tvg-logo="" group-title="Irán",SNN TV [Not 24/7]
+https://live2.snn.ir/hls/snn2_hd720/index.m3u8
+#EXTINF:-1 tvg-id="T2TV.ir@SD" tvg-name="T2 TV" tvg-logo="" group-title="Irán",T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TabarestanTV.ir@SD" tvg-name="Tabarestan" tvg-logo="" group-title="Irán",Tabarestan
+https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamasha.ir@SD" tvg-name="Tamasha" tvg-logo="" group-title="Irán",Tamasha
+https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Tapesh2.us@SD" tvg-name="Tapesh 2" tvg-logo="" group-title="Irán",Tapesh 2
+https://maxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TBNNejatTV.ir@SD" tvg-name="TBN Nejat TV" tvg-logo="" group-title="Irán",TBN Nejat TV
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TehranTV.ir@SD" tvg-name="Tehran" tvg-logo="" group-title="Irán",Tehran
+https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Tekyemadahi.ir@SD" tvg-name="Tekyemadahi" tvg-logo="" group-title="Irán",Tekyemadahi
+https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVITN.ir@SD" tvg-name="TV ITN" tvg-logo="" group-title="Irán",TV ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV1 Plus [Not 24/7]" tvg-logo="" group-title="Irán",TV1 Plus [Not 24/7]
+https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVANava.ir@SD" tvg-name="TVA Nava" tvg-logo="" group-title="Irán",TVA Nava
+https://ncdn.telewebion.ir/nava/live/playlist.m3u8
+#EXTINF:-1 tvg-id="VarzeshTV.ir@SD" tvg-name="Varzesh TV" tvg-logo="" group-title="Irán",Varzesh TV
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="VelayatTV.ir@SD" tvg-name="Velayat TV" tvg-logo="" group-title="Irán",Velayat TV
+https://ncdn.telewebion.ir/velayat/live/playlist.m3u8
+#EXTINF:-1 tvg-id="VoATVPersian.us@SD" tvg-name="VOA Persian" tvg-logo="" group-title="Irán",VOA Persian
+https://voaphls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="WiseHumanTv.ir@HD" tvg-name="WiseHumanTv (1080p)" tvg-logo="" group-title="Irán",WiseHumanTv (1080p)
+https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
+#EXTINF:-1 tvg-id="YazdTV.ir@SD" tvg-name="Yazd" tvg-logo="" group-title="Irán",Yazd
+https://ncdn.telewebion.ir/taban/live/playlist.m3u8
+#EXTINF:-1 tvg-id="YourTimeTV.ir@SD" tvg-name="YourTime TV" tvg-logo="" group-title="Irán",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="YourTimeTV.ir@SD" tvg-name="YourTime TV" tvg-logo="" group-title="Irán",YourTime TV
+https://live.yourtime.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ZagrosTV.ir@SD" tvg-name="Zagros" tvg-logo="" group-title="Irán",Zagros
+https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ZedTV.ir@HD" tvg-name="Zed TV" tvg-logo="" group-title="Irán",Zed TV
+https://zedhls.wns.live/hls/stream.m3u8
